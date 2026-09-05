@@ -226,7 +226,7 @@ export default function Home() {
               Home
             </Link>
             <a
-              href="https://github.com"
+              href="https://github.com/HimanshuGupta2512/ApexCommerce-Razorpay_challenge"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center rounded-full border border-slate-800 bg-slate-900/60 px-4 py-1.5 text-xs font-semibold text-slate-300 backdrop-blur transition-all hover:bg-slate-800/80 hover:text-white"

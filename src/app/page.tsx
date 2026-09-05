@@ -81,7 +81,7 @@ export default function HomePage() {
         </div>
         <nav className="flex items-center gap-4">
           <a
-            href="https://github.com"
+            href="https://github.com/HimanshuGupta2512/ApexCommerce-Razorpay_challenge"
             target="_blank"
             rel="noreferrer"
             className="hidden items-center gap-1.5 text-sm text-slate-400 transition-colors hover:text-white sm:flex"
