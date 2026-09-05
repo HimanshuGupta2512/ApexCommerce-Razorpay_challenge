@@ -94,7 +94,12 @@ export default function Home() {
           const data = await res.json();
           // Filter logs to only show ones generated AFTER the user opened this page
           const freshLogs = data.filter((log: AuditLog) => new Date(log.timestamp) >= new Date(sessionStartTime.current));
-          setAuditLogs(freshLogs);
+          setAuditLogs(prev => {
+            const newUnique = freshLogs.filter((fl: AuditLog) => !prev.some(p => p.id === fl.id));
+            const merged = [...newUnique, ...prev];
+            // Sort descending by timestamp
+            return merged.sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime());
+          });
         }
       } catch {
         // ignore polling failures
