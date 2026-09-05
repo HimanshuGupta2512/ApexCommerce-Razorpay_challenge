@@ -122,7 +122,7 @@ export default function HomePage() {
               Launch Live Demo <ArrowRight className="size-4" />
             </Link>
             <a
-              href="#engine"
+              href="#architecture"
               className="inline-flex w-full items-center justify-center rounded-full border border-slate-800 bg-slate-900/60 px-8 py-3.5 text-sm font-semibold text-slate-300 backdrop-blur transition-all hover:bg-slate-800/80 hover:text-white sm:w-auto"
             >
               Read Architecture
@@ -131,7 +131,7 @@ export default function HomePage() {
         </section>
 
         {/* Metrics Grid */}
-        <section id="engine" className="grid gap-6 pb-24 md:grid-cols-3">
+        <section id="engine" className="grid gap-6 pb-12 md:grid-cols-3">
           {metrics.map(({ icon: Icon, tone, title, description }) => (
             <article
               key={title}
@@ -144,6 +144,35 @@ export default function HomePage() {
               <p className="mt-3 text-sm leading-relaxed text-slate-400">{description}</p>
             </article>
           ))}
+        </section>
+
+        {/* Architecture Section */}
+        <section id="architecture" className="pb-24 pt-12 border-t border-slate-800/80">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-bold tracking-tight text-white mb-8 text-center">System Architecture</h2>
+            <div className="space-y-8">
+              <div className="rounded-2xl border border-slate-800/80 bg-slate-900/40 p-8">
+                <h3 className="text-xl font-bold text-emerald-400 mb-3">1. Conversational AI Layer</h3>
+                <p className="text-slate-300 leading-relaxed">
+                  Powered by Google Gemini, the AI acts as the storefront orchestrator. It parses user intent, executes <code className="text-slate-400 bg-slate-950 px-1 py-0.5 rounded">searchCatalog</code> queries via a local RAG engine, and negotiates with the buyer. Crucially, the AI is restricted from finalizing any prices or transactions.
+                </p>
+              </div>
+              
+              <div className="rounded-2xl border border-slate-800/80 bg-slate-900/40 p-8">
+                <h3 className="text-xl font-bold text-blue-400 mb-3">2. Deterministic Gatekeeper</h3>
+                <p className="text-slate-300 leading-relaxed">
+                  When the AI attempts to <code className="text-slate-400 bg-slate-950 px-1 py-0.5 rounded">stageCheckout</code>, the request is intercepted by a strict TypeScript Gatekeeper. It re-fetches the live catalog from the database, completely ignoring the AI's math. The Gatekeeper independently computes the subtotal, taxes, and final payable amount (in exact paise) to guarantee zero hallucinations.
+                </p>
+              </div>
+
+              <div className="rounded-2xl border border-slate-800/80 bg-slate-900/40 p-8">
+                <h3 className="text-xl font-bold text-indigo-400 mb-3">3. Razorpay Infrastructure</h3>
+                <p className="text-slate-300 leading-relaxed">
+                  The cryptographically signed cart is securely passed to Razorpay to generate a unique Order ID. A robust webhook integration (`/api/webhooks/razorpay`) listens for payment success/failure events. Using HMAC SHA-256 signatures, it strictly authenticates the webhook source before fulfilling the order.
+                </p>
+              </div>
+            </div>
+          </div>
         </section>
       </main>
 

@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ApexCommerce ⚡️ Razorpay AI Buildathon
 
-## Getting Started
+> **Track 1: AI Growth & Agentic Commerce**  
+> Engineered for the Razorpay AI Buildathon to demonstrate secure agent-to-agent commerce and conversational checkout.
 
-First, run the development server:
+ApexCommerce is a next-generation conversational storefront that bridges the gap between natural language AI and deterministic, highly secure financial transactions. It demonstrates how AI can independently search inventory, dynamically render UI cards, and strictly stage financial operations without hallucinating prices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **Conversational In-App Checkout:** Users can ask the AI for products (e.g. *"I want an awesome plastic car"*), and the AI orchestrates the database search, semantic matching, and checkout staging entirely in chat.
+* **Gatekeeper Architecture (Zero Hallucination):** The LLM provides natural language understanding, but deterministic TypeScript code controls the money. A strict Gatekeeper intercepts the AI's `stageCheckout` function call, re-verifies inventory, and computes the tax/total outside the LLM.
+* **Fail-Closed Security:** The Razorpay Webhook uses strict HMAC SHA-256 verification. Any prompt-injection attacks or spoofed API requests are rejected instantly.
+* **Smart UI Orchestration:** The backend parses the AI's text response to intelligently filter and render matching product cards in the UI without hardcoding array indices.
+* **Self-Healing Database:** Features a custom initialization script to bypass Vercel's read-only serverless environment, allowing SQLite to run effortlessly in the cloud for demo purposes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Framework:** Next.js 16 (App Router), React, TypeScript
+* **Database & RAG:** Prisma ORM, SQLite (Serverless `/tmp` adaptation)
+* **AI Engine:** Google Gemini SDK (`@google/genai`)
+* **Payments:** Razorpay Node.js SDK & Checkout.js
+* **Styling:** Tailwind CSS v4, Framer Motion, Glassmorphism UI
 
-## Learn More
+## ⚙️ Local Setup
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone & Install**
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Environment Variables**
+   Create a `.env.local` file with the following keys:
+   ```env
+   GEMINI_API_KEY=your_gemini_key
+   RAZORPAY_KEY_ID=your_razorpay_key_id
+   RAZORPAY_KEY_SECRET=your_razorpay_secret
+   NEXT_PUBLIC_RAZORPAY_KEY_ID=your_razorpay_key_id
+   RAZORPAY_WEBHOOK_SECRET=your_webhook_secret
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Initialize Database**
+   ```bash
+   npx prisma generate
+   ```
 
-## Deploy on Vercel
+4. **Run Development Server**
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🧠 Why This Matters (The Buildathon Context)
+NPCI's UAP and global protocol races are making agent-to-agent commerce the open problem of the year. ApexCommerce tackles the hardest part of this problem: **trust**. By separating the LLM's conversational capabilities from the deterministic financial calculations, we prove that AI can handle the entire sales funnel without exposing the merchant to prompt-injection fraud, revenue leakage, or pricing hallucinations. Every money action is explainable, bounded, and gated.
