@@ -58,6 +58,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false);
   const [auditLogs, setAuditLogs] = useState<AuditLog[]>([]);
   const chatEndRef = useRef<HTMLDivElement>(null);
+  const sessionStartTime = useRef(new Date().toISOString());
 
   // Auto-scroll chat
   useEffect(() => {
@@ -90,7 +91,10 @@ export default function Home() {
       try {
         const res = await fetch("/api/audit", { signal: controller.signal });
         if (res.ok && mounted) {
-          setAuditLogs(await res.json());
+          const data = await res.json();
+          // Filter logs to only show ones generated AFTER the user opened this page
+          const freshLogs = data.filter((log: AuditLog) => new Date(log.timestamp) >= new Date(sessionStartTime.current));
+          setAuditLogs(freshLogs);
         }
       } catch {
         // ignore polling failures
