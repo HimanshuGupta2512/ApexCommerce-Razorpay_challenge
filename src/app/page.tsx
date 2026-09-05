@@ -52,7 +52,7 @@ const metrics = [
 
 export default function HomePage() {
   return (
-    <div className="relative min-h-screen overflow-hidden bg-slate-950 text-slate-100 selection:bg-blue-500 selection:text-white">
+    <div className="relative min-h-screen overflow-x-hidden bg-slate-950 text-slate-100 selection:bg-blue-500 selection:text-white">
       {/* Ambient background glows */}
       <div
         aria-hidden
