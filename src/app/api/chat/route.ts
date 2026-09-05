@@ -140,6 +140,17 @@ export async function POST(req: NextRequest) {
       toolCalls = response.functionCalls;
     }
 
+    if (productData && response.text) {
+      const mentioned = productData.filter((p: any) => 
+        response.text?.includes(p.name) || response.text?.includes(p.id)
+      );
+      if (mentioned.length > 0) {
+        productData = mentioned;
+      } else {
+        productData = [productData[0]];
+      }
+    }
+
     return NextResponse.json({
       text: response.text,
       role: 'model',

@@ -150,11 +150,6 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="relative z-10 border-t border-slate-800/80 px-6 py-8 text-center text-xs text-slate-500">
         Built for the Razorpay AI Buildathon. Engineered for Track 1: AI Growth &amp; Agentic Commerce.
-        <div className="mt-2">
-          <Link href="/demo" className="text-blue-400 hover:underline">
-            Open the demo
-          </Link>
-        </div>
       </footer>
     </div>
   );

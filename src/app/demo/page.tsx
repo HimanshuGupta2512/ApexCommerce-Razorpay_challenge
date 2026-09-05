@@ -276,21 +276,25 @@ export default function Home() {
                   )}
                 </div>
                 {msg.productData && msg.productData.length > 0 && (
-                  <div className="mt-3 w-full max-w-[80%] rounded-xl border border-blue-500/30 bg-slate-900 shadow-lg shadow-blue-950/30 overflow-hidden flex flex-col">
-                    {msg.productData[0].imageUrl && (
-                      <img src={msg.productData[0].imageUrl} alt="Product" className="w-full h-48 object-cover" />
-                    )}
-                    <div className="p-5 flex flex-col gap-2">
-                      <h4 className="text-lg font-bold text-white leading-tight">
-                        {msg.productData[0].name}
-                      </h4>
-                      <p className="text-xs text-slate-400 line-clamp-2">
-                        {msg.productData[0].description}
-                      </p>
-                      <div className="mt-2 text-sm font-semibold text-emerald-400">
-                        ₹{msg.productData[0].price}
+                  <div className="mt-3 flex flex-col gap-3">
+                    {msg.productData.map((prod, idx) => (
+                      <div key={idx} className="w-full max-w-[80%] rounded-xl border border-blue-500/30 bg-slate-900 shadow-lg shadow-blue-950/30 overflow-hidden flex flex-col">
+                        {prod.imageUrl && (
+                          <img src={prod.imageUrl} alt="Product" className="w-full h-48 object-cover" />
+                        )}
+                        <div className="p-5 flex flex-col gap-2">
+                          <h4 className="text-lg font-bold text-white leading-tight">
+                            {prod.name}
+                          </h4>
+                          <p className="text-xs text-slate-400 line-clamp-2">
+                            {prod.description}
+                          </p>
+                          <div className="mt-2 text-sm font-semibold text-emerald-400">
+                            ₹{prod.price}
+                          </div>
+                        </div>
                       </div>
-                    </div>
+                    ))}
                   </div>
                 )}
                 {msg.checkoutData && (
