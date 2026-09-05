@@ -73,7 +73,7 @@ export async function POST(req: NextRequest) {
     }));
 
     let response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
+      model: 'gemini-1.5-pro',
       contents,
       config: {
         tools,
@@ -129,7 +129,7 @@ export async function POST(req: NextRequest) {
       contents.push({ role: 'user', parts });
 
       response = await ai.models.generateContent({
-        model: 'gemini-2.5-flash',
+        model: 'gemini-1.5-pro',
         contents,
         config: {
           tools,
