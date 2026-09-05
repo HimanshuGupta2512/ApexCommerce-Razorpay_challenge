@@ -7,7 +7,7 @@ export interface GatekeeperResult {
   status: 'APPROVED' | 'REJECTED';
   rejectionReason?: string;
   canonicalCart?: {
-    items: Array<{ id: string; name: string; price: number; quantity: number; total: number }>;
+    items: Array<{ id: string; name: string; description: string; imageUrl: string; price: number; quantity: number; total: number }>;
     subtotal: number;
     discountAmount: number;
     taxAmount: number;
@@ -102,6 +102,8 @@ export async function validateCheckout(
     canonicalItems.push({
       id: product.id,
       name: product.name,
+      description: product.description,
+      imageUrl: product.imageUrl,
       price: product.price, // keep INR for response formatting
       quantity,
       total: totalPaise / 100, // keep INR for response formatting

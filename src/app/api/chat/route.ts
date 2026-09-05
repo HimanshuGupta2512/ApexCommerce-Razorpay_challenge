@@ -77,11 +77,12 @@ export async function POST(req: NextRequest) {
       contents,
       config: {
         tools,
-        systemInstruction: 'You are ApexCommerce AI. Help users shop, check policies, and checkout.',
+        systemInstruction: 'You are ApexCommerce AI. Help users shop, check policies, and checkout. ALL prices are in Indian Rupees (INR). When displaying prices, ALWAYS use the ₹ symbol (e.g., ₹5,000) and NEVER use the $ symbol.',
       }
     });
 
     let checkoutData = null;
+    let productData = null;
 
     let toolCalls = response.functionCalls;
     let iteration = 0;
@@ -94,6 +95,7 @@ export async function POST(req: NextRequest) {
         const args: any = call.args || {};
         if (call.name === 'searchCatalog') {
           result = await searchCatalog(args.query);
+          productData = result;
         } else if (call.name === 'checkStorePolicy') {
           result = await searchPolicies(args.query);
         } else if (call.name === 'stageCheckout') {
@@ -131,7 +133,7 @@ export async function POST(req: NextRequest) {
         contents,
         config: {
           tools,
-          systemInstruction: 'You are ApexCommerce AI. Help users shop, check policies, and checkout.',
+          systemInstruction: 'You are ApexCommerce AI. Help users shop, check policies, and checkout. ALL prices are in Indian Rupees (INR). When displaying prices, ALWAYS use the ₹ symbol (e.g., ₹5,000) and NEVER use the $ symbol.',
         }
       });
       
@@ -141,7 +143,8 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({
       text: response.text,
       role: 'model',
-      checkoutData
+      checkoutData,
+      productData
     });
   } catch (error: unknown) {
     console.error("RAW AI ERROR:", error);

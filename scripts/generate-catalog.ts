@@ -9,6 +9,7 @@ interface Product {
   category: string;
   stock: number;
   description: string;
+  imageUrl: string;
   compatibility_tags: string[];
 }
 
@@ -25,6 +26,7 @@ const generateProducts = (): Product[] => {
       category: faker.helpers.arrayElement(categories),
       stock: faker.number.int({ min: 0, max: 100 }),
       description: faker.commerce.productDescription(),
+      imageUrl: faker.image.urlLoremFlickr({ category: 'technology' }),
       compatibility_tags: faker.helpers.arrayElements(tags, { min: 1, max: 3 }),
     };
     products.push(product);

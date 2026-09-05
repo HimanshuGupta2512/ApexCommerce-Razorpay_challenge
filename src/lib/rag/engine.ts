@@ -52,7 +52,7 @@ export async function indexCatalog() {
   
   const documents = products.map((p: any) => ({
     content: `${p.name} ${p.category} ${p.description} ${p.compatibility_tags.join(' ')}`,
-    metadata: { id: p.id, price: p.price, stock: p.stock, name: p.name }
+    metadata: { id: p.id, price: p.price, stock: p.stock, name: p.name, imageUrl: p.imageUrl, description: p.description }
   }));
 
   const vectors = embeddings.embedDocuments(documents.map((d: any) => d.content));

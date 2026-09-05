@@ -6,7 +6,14 @@ import Link from "next/link";
 import { Hexagon } from "lucide-react"; // <-- Add this import
 
 interface CheckoutData {
-  items: Array<{ id: string; quantity: number; price: number }>;
+  items: Array<{ 
+    id: string; 
+    quantity: number; 
+    price: number; 
+    name?: string; 
+    imageUrl?: string; 
+    description?: string; 
+  }>;
   couponCode?: string;
   canonical: {
     subtotal: number;
@@ -20,6 +27,14 @@ interface Message {
   role: "user" | "model";
   content: string;
   checkoutData?: CheckoutData;
+  productData?: Array<{
+    id: string;
+    name: string;
+    price: number;
+    stock: number;
+    imageUrl?: string;
+    description?: string;
+  }>;
 }
 
 interface AuditLog {
@@ -109,7 +124,7 @@ export default function Home() {
 
       setMessages([
         ...newMessages,
-        { role: "model", content: data.text, checkoutData: data.checkoutData },
+        { role: "model", content: data.text, checkoutData: data.checkoutData, productData: data.productData },
       ]);
     } catch {
       setMessages([
@@ -260,6 +275,24 @@ export default function Home() {
                     msg.content
                   )}
                 </div>
+                {msg.productData && msg.productData.length > 0 && (
+                  <div className="mt-3 w-full max-w-[80%] rounded-xl border border-blue-500/30 bg-slate-900 shadow-lg shadow-blue-950/30 overflow-hidden flex flex-col">
+                    {msg.productData[0].imageUrl && (
+                      <img src={msg.productData[0].imageUrl} alt="Product" className="w-full h-48 object-cover" />
+                    )}
+                    <div className="p-5 flex flex-col gap-2">
+                      <h4 className="text-lg font-bold text-white leading-tight">
+                        {msg.productData[0].name}
+                      </h4>
+                      <p className="text-xs text-slate-400 line-clamp-2">
+                        {msg.productData[0].description}
+                      </p>
+                      <div className="mt-2 text-sm font-semibold text-emerald-400">
+                        ₹{msg.productData[0].price}
+                      </div>
+                    </div>
+                  </div>
+                )}
                 {msg.checkoutData && (
                   <div className="mt-3 w-full max-w-[80%] rounded-xl border border-emerald-500/30 bg-slate-900 p-4 shadow-lg shadow-emerald-950/30">
                     <div className="mb-3 flex items-start justify-between">
@@ -288,9 +321,9 @@ export default function Home() {
                         </span>
                       </div>
                     </div>
-                    <button
+                    <button 
                       onClick={() => msg.checkoutData && handlePayment(msg.checkoutData)}
-                      className="w-full rounded-xl bg-gradient-to-r from-emerald-500 to-teal-600 py-3 font-bold text-slate-950 shadow-lg shadow-emerald-500/20 transition-all hover:from-emerald-400 hover:to-teal-500 active:scale-[0.99]"
+                      className="w-full active:scale-[0.99] rounded-xl bg-gradient-to-r from-emerald-500 to-teal-600 py-3 font-bold text-slate-950 shadow-lg shadow-emerald-500/20 transition-all hover:from-emerald-400 hover:to-teal-500"
                     >
                       Pay Now with Razorpay
                     </button>

@@ -1,1777 +1,1939 @@
 [
   {
-    "id": "17aac124-7549-4906-b941-5931f75a2164",
-    "name": "Licensed Bamboo Bike",
-    "price": 116836,
-    "category": "Wearables",
-    "stock": 96,
-    "description": "Professional-grade Sausages perfect for milky training and recreational use",
-    "compatibility_tags": [
-      "Office",
-      "Wireless",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "f6920eec-8557-493e-8bf6-1c17d3118cf1",
-    "name": "Luxurious Silk Salad",
-    "price": 56464,
-    "category": "Accessories",
-    "stock": 11,
-    "description": "Professional-grade Keyboard perfect for timely training and recreational use",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "63833590-f049-4696-a3c7-b3bcebb963fb",
-    "name": "Soft Bronze Car",
-    "price": 50999,
-    "category": "Accessories",
-    "stock": 34,
-    "description": "Savor the golden essence in our Cheese, designed for important culinary adventures",
-    "compatibility_tags": [
-      "Bluetooth",
-      "USB-C",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "1ca56ec6-2af0-42df-870a-6afd4793dd54",
-    "name": "Refined Plastic Table",
-    "price": 96062,
-    "category": "Audio",
-    "stock": 93,
-    "description": "Innovative Pants featuring content technology and Bamboo construction",
-    "compatibility_tags": [
-      "Wireless",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "943cc3b6-41fc-41b0-8255-860ba3d350cb",
-    "name": "Soft Wooden Cheese",
-    "price": 84290,
-    "category": "Computers",
-    "stock": 63,
-    "description": "Ruecker, Kutch and Langworth's most advanced Gloves technology increases querulous capabilities",
-    "compatibility_tags": [
-      "Gaming",
-      "Smart Home",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "cf427441-dde2-4a03-8e87-314f487eed4d",
-    "name": "Fresh Marble Gloves",
-    "price": 107341,
-    "category": "Accessories",
-    "stock": 57,
-    "description": "Savor the spicy essence in our Salad, designed for athletic culinary adventures",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "9ceea091-2c30-4160-a5d1-be6b8866a199",
-    "name": "Oriental Bamboo Keyboard",
-    "price": 105594,
-    "category": "Audio",
-    "stock": 42,
-    "description": "Experience the sky blue brilliance of our Mouse, perfect for unwritten environments",
-    "compatibility_tags": [
-      "USB-C",
-      "Smart Home",
-      "Office"
-    ]
-  },
-  {
-    "id": "778934e4-0e32-430d-b874-9dd920c7d5a0",
-    "name": "Handmade Cotton Cheese",
-    "price": 117006,
-    "category": "Computers",
-    "stock": 38,
-    "description": "Savor the smoky essence in our Soap, designed for grimy culinary adventures",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "1fb08955-9e8c-413b-9765-8ee675d2a47b",
-    "name": "Frozen Rubber Fish",
-    "price": 61310,
-    "category": "Accessories",
-    "stock": 63,
-    "description": "Goldner - Mohr's most advanced Chips technology increases clean capabilities",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "3fd7d9c2-2f9d-42b9-a8eb-b70d52a526b7",
-    "name": "Soft Wooden Keyboard",
-    "price": 66570,
-    "category": "Computers",
-    "stock": 56,
-    "description": "Introducing the Lithuania-inspired Soap, blending stunning style with local craftsmanship",
-    "compatibility_tags": [
-      "Smart Home",
-      "Office",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "069d5ff3-efbd-4ff7-8a09-d025e08a11ac",
-    "name": "Intelligent Marble Car",
-    "price": 119947,
-    "category": "Wearables",
-    "stock": 45,
-    "description": "Ergonomic Computer made with Plastic for all-day dark support",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "6a1840cf-b54b-4f85-ac99-716bc91a8998",
-    "name": "Oriental Gold Shirt",
-    "price": 40878,
-    "category": "Computers",
-    "stock": 56,
-    "description": "Legros - Mills's most advanced Shoes technology increases long-term capabilities",
-    "compatibility_tags": [
-      "Wireless",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "1c7bb01a-51e5-490d-9993-1d8399df03dd",
-    "name": "Electronic Bamboo Hat",
-    "price": 49586,
-    "category": "Computers",
-    "stock": 26,
-    "description": "Innovative Shoes featuring uncommon technology and Bronze construction",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "6895da34-a29a-4887-ac81-96b2fe11f175",
-    "name": "Soft Rubber Fish",
-    "price": 109922,
-    "category": "Audio",
-    "stock": 14,
-    "description": "Discover the bat-like agility of our Table, perfect for upset users",
-    "compatibility_tags": [
-      "Gaming",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "918d1b71-f422-4abd-8a5a-f9b6db16b437",
-    "name": "Handmade Metal Bike",
-    "price": 112598,
-    "category": "Audio",
-    "stock": 24,
-    "description": "Stylish Bacon designed to make you stand out with dependent looks",
-    "compatibility_tags": [
-      "Wireless",
-      "Office",
-      "Portable"
-    ]
-  },
-  {
-    "id": "313b1219-c520-4a88-b593-cb439fd7a2a3",
-    "name": "Soft Metal Mouse",
-    "price": 106193,
-    "category": "Computers",
-    "stock": 1,
-    "description": "New Bike model with 23 GB RAM, 211 GB storage, and definitive features",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "30f68bb3-6191-4756-b00f-22d5e90629c5",
-    "name": "Practical Steel Mouse",
-    "price": 135376,
-    "category": "Accessories",
-    "stock": 45,
-    "description": "Experience the pink brilliance of our Salad, perfect for lovable environments",
-    "compatibility_tags": [
-      "Smart Home",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "0f29653e-d854-4e92-b29c-8cc4523fb4f3",
-    "name": "Licensed Steel Chair",
-    "price": 65814,
-    "category": "Audio",
-    "stock": 70,
-    "description": "Introducing the Qatar-inspired Sausages, blending expert style with local craftsmanship",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "16559f5b-f77c-4c52-bb70-f6769638cb0d",
-    "name": "Small Silk Bike",
-    "price": 104212,
-    "category": "Computers",
-    "stock": 13,
-    "description": "Experience the cyan brilliance of our Soap, perfect for fruitful environments",
-    "compatibility_tags": [
-      "Smart Home",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "b76ad80c-022b-4a53-ac86-f37a12c6a870",
-    "name": "Fresh Granite Chair",
-    "price": 79910,
-    "category": "Accessories",
-    "stock": 61,
-    "description": "Becker, Olson and Kutch's most advanced Bike technology increases brilliant capabilities",
-    "compatibility_tags": [
-      "Gaming",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "125aa786-853a-4b33-b7f0-94aabf7812c3",
-    "name": "Gorgeous Bamboo Shoes",
-    "price": 144863,
-    "category": "Electronics",
-    "stock": 24,
-    "description": "New Towels model with 61 GB RAM, 295 GB storage, and utilized features",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "01833f1d-6c98-474b-af1f-55b7089957f5",
-    "name": "Refined Bronze Chair",
-    "price": 39248,
-    "category": "Computers",
-    "stock": 25,
-    "description": "New Pizza model with 66 GB RAM, 550 GB storage, and decent features",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "9b602a15-4d15-4361-b5f1-64acc115b58c",
-    "name": "Generic Steel Tuna",
-    "price": 44477,
-    "category": "Audio",
-    "stock": 94,
-    "description": "Professional-grade Ball perfect for wiggly training and recreational use",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "9e9ac0bd-3f0a-4520-a0ca-7bee101c42d8",
-    "name": "Handcrafted Cotton Bike",
-    "price": 58162,
-    "category": "Electronics",
-    "stock": 75,
-    "description": "The salmon Car combines Tonga aesthetics with Meitnerium-based durability",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "765808df-7e21-4e89-9ab2-ca8410325b61",
-    "name": "Handcrafted Metal Fish",
-    "price": 49542,
-    "category": "Wearables",
-    "stock": 83,
-    "description": "Soft Pizza designed with Marble for live performance",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "b487f284-937e-40cc-8403-a67a9e3bf636",
-    "name": "Generic Bamboo Shirt",
-    "price": 135458,
-    "category": "Computers",
-    "stock": 66,
-    "description": "Discover the parrot-like agility of our Chips, perfect for well-lit users",
-    "compatibility_tags": [
-      "USB-C",
-      "Wireless",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "b8d67ab1-306e-4528-868e-44cf8122d836",
-    "name": "Electronic Steel Ball",
-    "price": 14697,
-    "category": "Wearables",
-    "stock": 3,
-    "description": "Introducing the Cook Islands-inspired Shoes, blending nutritious style with local craftsmanship",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "65d82881-48c0-4a4d-aebc-3c61c23a4c06",
-    "name": "Frozen Aluminum Chicken",
-    "price": 11769,
-    "category": "Computers",
-    "stock": 68,
-    "description": "Ergonomic Mouse made with Cotton for all-day well-groomed support",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "6be349eb-d51e-45e4-b5b7-d9bfc89976c1",
-    "name": "Licensed Rubber Table",
-    "price": 46875,
-    "category": "Electronics",
-    "stock": 59,
-    "description": "Our juicy-inspired Chips brings a taste of luxury to your clean lifestyle",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "8ac5b66b-e147-42d2-9f14-b57fdf41ed04",
-    "name": "Refined Bamboo Keyboard",
-    "price": 139518,
-    "category": "Audio",
-    "stock": 80,
-    "description": "Experience the azure brilliance of our Car, perfect for well-to-do environments",
-    "compatibility_tags": [
-      "Portable"
-    ]
-  },
-  {
-    "id": "f2f2d6b5-54f5-450a-ac82-3d41022e2657",
-    "name": "Generic Granite Ball",
-    "price": 55582,
-    "category": "Audio",
-    "stock": 66,
-    "description": "Discover the married new Fish with an exciting mix of Bamboo ingredients",
-    "compatibility_tags": [
-      "Wireless",
-      "USB-C",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "0fb1e8c0-82ba-4270-8019-f5f31c48c26c",
-    "name": "Elegant Bamboo Soap",
-    "price": 63471,
-    "category": "Accessories",
-    "stock": 70,
-    "description": "DuBuque LLC's most advanced Tuna technology increases worthwhile capabilities",
-    "compatibility_tags": [
-      "Portable",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "e9999808-3ad9-4447-9443-35f2b22c0422",
-    "name": "Recycled Ceramic Sausages",
-    "price": 70747,
-    "category": "Wearables",
-    "stock": 86,
-    "description": "The Hilda Towels is the latest in a series of voluminous products from Boyle - Macejkovic",
-    "compatibility_tags": [
-      "USB-C",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "63600a38-a7f1-4486-9dcd-9cee15fc1b03",
-    "name": "Small Bronze Shirt",
-    "price": 129022,
-    "category": "Electronics",
-    "stock": 80,
-    "description": "New white Pizza with ergonomic design for crafty comfort",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "77542fd6-66b7-4af7-82c9-fa09f13bac4a",
-    "name": "Soft Metal Salad",
-    "price": 102901,
-    "category": "Audio",
-    "stock": 71,
-    "description": "Experience the black brilliance of our Table, perfect for spirited environments",
-    "compatibility_tags": [
-      "Office",
-      "USB-C",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "c550baf9-1aad-45aa-a2d7-54c66ede2d5a",
-    "name": "Tasty Cotton Shoes",
-    "price": 106595,
-    "category": "Audio",
-    "stock": 32,
-    "description": "Featuring Helium-enhanced technology, our Pants offers unparalleled mild performance",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "c9aaf8bb-fd88-46b4-bebf-8f52d79d92bb",
-    "name": "Soft Gold Pants",
-    "price": 67037,
-    "category": "Electronics",
-    "stock": 79,
-    "description": "Gorgeous Hat designed with Metal for greedy performance",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "46485f72-5d85-4ce1-ad3a-a579e3811bdc",
-    "name": "Fantastic Steel Towels",
-    "price": 149375,
-    "category": "Computers",
-    "stock": 20,
-    "description": "Professional-grade Gloves perfect for harmful training and recreational use",
-    "compatibility_tags": [
-      "Wireless",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "90106f37-dfed-44fc-b64a-bfcd1661a272",
-    "name": "Refined Steel Fish",
-    "price": 1962,
-    "category": "Wearables",
-    "stock": 61,
-    "description": "The lime Cheese combines Syrian Arab Republic aesthetics with Rhenium-based durability",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "6f808fbb-2f2c-451e-91e9-a9955b0c39a8",
-    "name": "Sleek Bronze Shoes",
-    "price": 67986,
-    "category": "Wearables",
-    "stock": 35,
-    "description": "Professional-grade Ball perfect for sure-footed training and recreational use",
-    "compatibility_tags": [
-      "Gaming",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "0561460a-55d9-467d-91ed-6808a6038515",
-    "name": "Electronic Silk Ball",
-    "price": 97963,
-    "category": "Audio",
-    "stock": 61,
-    "description": "New Pizza model with 79 GB RAM, 75 GB storage, and profitable features",
-    "compatibility_tags": [
-      "Gaming",
-      "Smart Home",
-      "Portable"
-    ]
-  },
-  {
-    "id": "f51e14fc-b3e4-4468-a82c-93abcb58f477",
-    "name": "Gorgeous Concrete Tuna",
-    "price": 36358,
-    "category": "Electronics",
-    "stock": 47,
-    "description": "Our crunchy-inspired Shirt brings a taste of luxury to your those lifestyle",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "07581a35-dbcc-44fa-9f7e-b911a087160b",
-    "name": "Unbranded Gold Computer",
-    "price": 124382,
-    "category": "Computers",
-    "stock": 2,
-    "description": "Discover the bear-like agility of our Tuna, perfect for ornate users",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "93cdd5a7-5e39-4a0e-8574-224758e21ae1",
-    "name": "Electronic Concrete Chips",
-    "price": 85875,
-    "category": "Accessories",
-    "stock": 88,
-    "description": "Professional-grade Ball perfect for outlying training and recreational use",
-    "compatibility_tags": [
-      "Smart Home",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "de74e8d1-8fbe-4ac4-ac2c-2ec95ef5521e",
-    "name": "Licensed Silk Keyboard",
-    "price": 106882,
-    "category": "Accessories",
-    "stock": 41,
-    "description": "Discover the fragrant new Computer with an exciting mix of Plastic ingredients",
-    "compatibility_tags": [
-      "Smart Home",
-      "Portable"
-    ]
-  },
-  {
-    "id": "1a2f6b50-bfe9-46bb-8c84-bcedff5625c2",
-    "name": "Rustic Metal Tuna",
-    "price": 87019,
-    "category": "Electronics",
-    "stock": 72,
-    "description": "Experience the teal brilliance of our Keyboard, perfect for kosher environments",
-    "compatibility_tags": [
-      "Smart Home",
-      "Office"
-    ]
-  },
-  {
-    "id": "1ac947ae-b51a-4294-b3c7-aff9dc7004eb",
-    "name": "Ergonomic Silk Shoes",
-    "price": 28249,
-    "category": "Electronics",
-    "stock": 2,
-    "description": "Discover the quixotic new Bacon with an exciting mix of Wooden ingredients",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Portable"
-    ]
-  },
-  {
-    "id": "819dd8b2-f689-4ca8-a6ac-4505dbd96490",
-    "name": "Unbranded Metal Shirt",
-    "price": 7121,
-    "category": "Electronics",
-    "stock": 45,
-    "description": "Our juicy-inspired Keyboard brings a taste of luxury to your affectionate lifestyle",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "d020ec07-8d09-49aa-acca-a6062ae1f61b",
-    "name": "Practical Marble Fish",
-    "price": 74596,
-    "category": "Wearables",
-    "stock": 43,
-    "description": "Featuring Curium-enhanced technology, our Chips offers unparalleled defenseless performance",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "56d14dfb-ef56-4efe-b129-c71daf16598a",
-    "name": "Practical Bronze Hat",
-    "price": 6358,
-    "category": "Accessories",
-    "stock": 4,
-    "description": "Our fluffy-inspired Car brings a taste of luxury to your hopeful lifestyle",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "c9ebd62e-4c4d-4b6e-8565-6cf6501e3ffe",
-    "name": "Frozen Bamboo Chicken",
-    "price": 35371,
-    "category": "Accessories",
-    "stock": 91,
-    "description": "Innovative Chips featuring juvenile technology and Granite construction",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "a65b8e89-fd4e-4f01-83df-d6e4835f632a",
-    "name": "Electronic Concrete Computer",
-    "price": 9903,
-    "category": "Electronics",
-    "stock": 47,
-    "description": "The Team-oriented uniform framework Computer offers reliable performance and robust design",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "cea105f3-54e0-4f44-a14c-0526d360d0d7",
-    "name": "Incredible Cotton Mouse",
-    "price": 46754,
-    "category": "Audio",
-    "stock": 80,
-    "description": "Our rhinoceros-friendly Bike ensures deserted comfort for your pets",
-    "compatibility_tags": [
-      "Portable",
-      "Office",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "2c7100c7-1f04-4cd2-8c3e-849ffe8c2df2",
-    "name": "Refined Aluminum Hat",
-    "price": 107499,
-    "category": "Wearables",
-    "stock": 98,
-    "description": "The Dakota Salad is the latest in a series of impeccable products from Walker, Yost and Parisian",
-    "compatibility_tags": [
-      "Portable",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "dc905b24-8bff-4226-ae27-8145e9323a08",
-    "name": "Modern Aluminum Chair",
-    "price": 128518,
-    "category": "Audio",
-    "stock": 11,
-    "description": "The turquoise Shoes combines Finland aesthetics with Copernicium-based durability",
-    "compatibility_tags": [
-      "Smart Home",
-      "Office",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "c66e559a-fff7-4421-8748-6cc5c19c4f30",
-    "name": "Generic Wooden Cheese",
-    "price": 42155,
-    "category": "Accessories",
-    "stock": 32,
-    "description": "Unbranded Pizza designed with Steel for impeccable performance",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "4b7480cf-6839-4030-b1a7-e3dcde576ce6",
-    "name": "Generic Steel Sausages",
-    "price": 6373,
-    "category": "Wearables",
-    "stock": 62,
-    "description": "New ivory Shoes with ergonomic design for messy comfort",
-    "compatibility_tags": [
-      "USB-C",
-      "Office"
-    ]
-  },
-  {
-    "id": "e15936e4-9f2b-4664-af1e-d94d93d7c60e",
-    "name": "Unbranded Aluminum Chair",
-    "price": 58364,
-    "category": "Accessories",
-    "stock": 66,
-    "description": "Our fresh-inspired Shirt brings a taste of luxury to your lovable lifestyle",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "1578aaf1-d068-412b-a481-92ad53d2c101",
-    "name": "Bespoke Bronze Shoes",
-    "price": 68419,
-    "category": "Computers",
-    "stock": 16,
-    "description": "Discover the mealy new Chair with an exciting mix of Bronze ingredients",
-    "compatibility_tags": [
-      "Smart Home",
-      "Office"
-    ]
-  },
-  {
-    "id": "fd228725-97f1-4f11-9d80-ee895a46cce9",
-    "name": "Generic Rubber Salad",
-    "price": 122395,
-    "category": "Computers",
-    "stock": 76,
-    "description": "Handmade Bike designed with Aluminum for haunting performance",
-    "compatibility_tags": [
-      "Portable",
-      "Office"
-    ]
-  },
-  {
-    "id": "e17d925b-5403-4f98-82ef-5bbe5ff0f2ea",
-    "name": "Intelligent Cotton Computer",
-    "price": 65027,
-    "category": "Audio",
-    "stock": 97,
-    "description": "Little, Schamberger and Williamson's most advanced Chips technology increases warped capabilities",
-    "compatibility_tags": [
-      "USB-C",
-      "Smart Home",
-      "Office"
-    ]
-  },
-  {
-    "id": "3fac06b8-f06f-4aaa-a5c7-98b4000e7ce2",
-    "name": "Gorgeous Marble Bike",
-    "price": 132924,
-    "category": "Computers",
-    "stock": 82,
-    "description": "The Business-focused stable orchestration Ball offers reliable performance and rubbery design",
-    "compatibility_tags": [
-      "Portable",
-      "Bluetooth",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "418b910c-8e00-4468-b73d-8ac6f624ec44",
-    "name": "Luxurious Bronze Bacon",
-    "price": 28401,
-    "category": "Computers",
-    "stock": 56,
-    "description": "Featuring Lead-enhanced technology, our Pizza offers unparalleled personal performance",
-    "compatibility_tags": [
-      "Gaming",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "fbd843d6-db83-42d6-85bd-8bb423cf4fbd",
-    "name": "Small Marble Bike",
-    "price": 47658,
-    "category": "Accessories",
-    "stock": 73,
-    "description": "Discover the insignificant new Salad with an exciting mix of Aluminum ingredients",
-    "compatibility_tags": [
-      "Gaming",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "c095e294-b889-46f3-b0ee-425888a8d2c1",
-    "name": "Luxurious Plastic Bike",
-    "price": 96259,
+    "id": "0a8853cb-7475-4ed7-b39a-6ca3f8e91d45",
+    "name": "Rustic Gold Fish",
+    "price": 3500,
     "category": "Audio",
     "stock": 84,
-    "description": "The lavender Table combines Vietnam aesthetics with Rutherfordium-based durability",
-    "compatibility_tags": [
-      "USB-C",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "ffeffd21-f406-435d-8dcd-9c5701147c72",
-    "name": "Refined Metal Pants",
-    "price": 36705,
-    "category": "Computers",
-    "stock": 93,
-    "description": "New black Bike with ergonomic design for illiterate comfort",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "4cd80dda-f128-415e-bc32-0d0b4fdf3d7f",
-    "name": "Refined Rubber Cheese",
-    "price": 74962,
-    "category": "Wearables",
-    "stock": 20,
-    "description": "Professional-grade Bacon perfect for imaginary training and recreational use",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Wireless",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "7366c311-47b7-415d-aa41-c3c07e889ad1",
-    "name": "Soft Cotton Gloves",
-    "price": 11895,
-    "category": "Electronics",
-    "stock": 13,
-    "description": "Professional-grade Gloves perfect for extra-large training and recreational use",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "b0792f1d-cf75-49db-8950-28ecb313b64e",
-    "name": "Handmade Granite Chair",
-    "price": 18046,
-    "category": "Wearables",
-    "stock": 58,
-    "description": "Elegant Mouse designed with Concrete for confused performance",
-    "compatibility_tags": [
-      "USB-C",
-      "Wireless",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "80f999e2-8100-422c-b55c-3111cc8e26db",
-    "name": "Small Gold Chicken",
-    "price": 148636,
-    "category": "Accessories",
-    "stock": 19,
-    "description": "Introducing the Colombia-inspired Computer, blending quixotic style with local craftsmanship",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "cdf3ae0a-1c4d-4ecd-b7a3-0a01be00e5a0",
-    "name": "Practical Ceramic Chicken",
-    "price": 126439,
-    "category": "Accessories",
-    "stock": 96,
-    "description": "Grimes and Sons's most advanced Pizza technology increases ecstatic capabilities",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "e3d18559-5f5b-43fb-9746-c2ba43ff303e",
-    "name": "Luxurious Granite Mouse",
-    "price": 73970,
-    "category": "Wearables",
-    "stock": 81,
-    "description": "Introducing the Turks and Caicos Islands-inspired Bacon, blending outstanding style with local craftsmanship",
+    "description": "Featuring Neon-enhanced technology, our Pants offers unparalleled soft performance",
+    "imageUrl": "/products/product-6.jpg",
     "compatibility_tags": [
       "Office"
     ]
   },
   {
-    "id": "f8fad632-0292-4646-a4a7-189c056fc021",
-    "name": "Incredible Silk Pizza",
-    "price": 145750,
-    "category": "Wearables",
-    "stock": 27,
-    "description": "Discover the crocodile-like agility of our Chips, perfect for wasteful users",
-    "compatibility_tags": [
-      "USB-C",
-      "Office"
-    ]
-  },
-  {
-    "id": "f09b1b32-9c9b-479f-901e-e1353024ef47",
-    "name": "Fantastic Steel Hat",
-    "price": 136544,
-    "category": "Audio",
-    "stock": 30,
-    "description": "The teal Shoes combines British Indian Ocean Territory (Chagos Archipelago) aesthetics with Aluminium-based durability",
-    "compatibility_tags": [
-      "Portable",
-      "Office"
-    ]
-  },
-  {
-    "id": "e51e1185-724f-4542-bf05-1915ce7cd8e2",
-    "name": "Licensed Concrete Car",
-    "price": 131151,
-    "category": "Audio",
-    "stock": 36,
-    "description": "Innovative Car featuring shocked technology and Steel construction",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "e505d07a-d88e-47ce-9d2a-af9fae8794c6",
-    "name": "Ergonomic Wooden Towels",
-    "price": 37377,
-    "category": "Computers",
-    "stock": 71,
-    "description": "New blue Chips with ergonomic design for smart comfort",
-    "compatibility_tags": [
-      "Portable"
-    ]
-  },
-  {
-    "id": "10a45e76-9fb2-404b-aa78-2c424895359c",
-    "name": "Elegant Plastic Towels",
-    "price": 45581,
-    "category": "Audio",
-    "stock": 95,
-    "description": "Hamill - Lesch's most advanced Chicken technology increases delectable capabilities",
-    "compatibility_tags": [
-      "Office",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "d5b2b67a-171d-4f55-9e29-d807cb3ff18e",
-    "name": "Gorgeous Rubber Soap",
-    "price": 12090,
-    "category": "Wearables",
-    "stock": 43,
-    "description": "New azure Fish with ergonomic design for blushing comfort",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "36df05a4-da34-4a8d-9bca-77c359bdfa2b",
-    "name": "Fresh Wooden Shirt",
-    "price": 107861,
-    "category": "Audio",
-    "stock": 36,
-    "description": "New Sausages model with 91 GB RAM, 625 GB storage, and crushing features",
-    "compatibility_tags": [
-      "Smart Home",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "5fbe2444-61eb-4394-9125-008fd687e42d",
-    "name": "Fantastic Aluminum Shirt",
-    "price": 43546,
-    "category": "Audio",
-    "stock": 81,
-    "description": "Luettgen LLC's most advanced Towels technology increases those capabilities",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "6f47a7c9-01e9-4d5b-aa2e-f07e85db971b",
-    "name": "Oriental Wooden Pants",
-    "price": 46641,
-    "category": "Electronics",
-    "stock": 55,
-    "description": "Professional-grade Tuna perfect for unwelcome training and recreational use",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "1709f597-14ff-4cef-971b-3dc4fc3d105b",
-    "name": "Rustic Concrete Ball",
-    "price": 136070,
-    "category": "Accessories",
-    "stock": 3,
-    "description": "Rustic Salad designed with Marble for woeful performance",
-    "compatibility_tags": [
-      "Office",
-      "Gaming",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "229288df-e9fa-430f-8ed3-b700afcf8583",
-    "name": "Soft Silk Hat",
-    "price": 60152,
-    "category": "Accessories",
-    "stock": 55,
-    "description": "Savor the crispy essence in our Computer, designed for perfumed culinary adventures",
-    "compatibility_tags": [
-      "Gaming",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "34da9778-b92f-4a54-9bcf-f219ab5a0991",
-    "name": "Soft Aluminum Towels",
-    "price": 129840,
-    "category": "Audio",
-    "stock": 99,
-    "description": "Discover the dog-like agility of our Car, perfect for flawed users",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "10a6a675-26f9-4f00-8b56-8a7495e8f0fe",
-    "name": "Oriental Gold Bacon",
-    "price": 76702,
-    "category": "Electronics",
-    "stock": 96,
-    "description": "Discover the elephant-like agility of our Salad, perfect for far-off users",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Gaming",
-      "Portable"
-    ]
-  },
-  {
-    "id": "21e763e1-12c4-4172-8d0f-b7d9c3cc310f",
-    "name": "Small Bronze Pizza",
-    "price": 94822,
-    "category": "Audio",
-    "stock": 55,
-    "description": "Professional-grade Sausages perfect for frizzy training and recreational use",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "a85b1d39-86a9-4ee0-9611-5d8bd5a5a05d",
-    "name": "Handmade Gold Pants",
-    "price": 81903,
-    "category": "Computers",
-    "stock": 14,
-    "description": "New Pizza model with 73 GB RAM, 703 GB storage, and weekly features",
-    "compatibility_tags": [
-      "Wireless",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "b53b0018-e58f-4e72-891e-77091561f1d4",
-    "name": "Oriental Plastic Mouse",
-    "price": 125297,
-    "category": "Computers",
-    "stock": 30,
-    "description": "Our fluffy-inspired Keyboard brings a taste of luxury to your uncomfortable lifestyle",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "9eb17de3-38ae-4444-be5e-108e6372d12b",
-    "name": "Oriental Bronze Pizza",
-    "price": 130503,
-    "category": "Electronics",
-    "stock": 8,
-    "description": "The red Shoes combines Nauru aesthetics with Molybdenum-based durability",
-    "compatibility_tags": [
-      "Portable"
-    ]
-  },
-  {
-    "id": "69cd5150-63b3-4b70-9925-faf9db319220",
-    "name": "Recycled Steel Bike",
-    "price": 94422,
-    "category": "Wearables",
-    "stock": 27,
-    "description": "Ergonomic Salad made with Aluminum for all-day portly support",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "ec09e6a3-1ab9-4145-b36c-875ffdadeac0",
-    "name": "Intelligent Bamboo Ball",
-    "price": 103669,
-    "category": "Accessories",
-    "stock": 4,
-    "description": "Professional-grade Bacon perfect for true training and recreational use",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "722e4e8c-fffe-456a-8c98-125937d0cfe9",
-    "name": "Elegant Aluminum Chicken",
-    "price": 62922,
-    "category": "Audio",
-    "stock": 26,
-    "description": "New sky blue Chicken with ergonomic design for remarkable comfort",
-    "compatibility_tags": [
-      "Portable",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "8165d638-bdd5-4177-bb53-fc7a25f4e734",
-    "name": "Electronic Bronze Bacon",
-    "price": 124208,
+    "id": "98ae7430-92e9-4e11-82d3-34406c2f2c48",
+    "name": "Tasty Rubber Ball",
+    "price": 250,
     "category": "Electronics",
     "stock": 15,
-    "description": "Featuring Cadmium-enhanced technology, our Chips offers unparalleled yummy performance",
+    "description": "Discover the royal new Table with an exciting mix of Ceramic ingredients",
+    "imageUrl": "https://loremflickr.com/576/1706/technology?lock=7841341068858851",
     "compatibility_tags": [
-      "Wireless",
-      "Smart Home",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "45e54658-395a-4293-9cfe-a1d4ad653504",
-    "name": "Unbranded Rubber Sausages",
-    "price": 40336,
-    "category": "Accessories",
-    "stock": 13,
-    "description": "The sleek and optimal Bike comes with orchid LED lighting for smart functionality",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "01e77abd-9671-4d30-9b73-c8ec50b95583",
-    "name": "Licensed Ceramic Shoes",
-    "price": 16119,
-    "category": "Accessories",
-    "stock": 93,
-    "description": "Savor the sweet essence in our Sausages, designed for multicolored culinary adventures",
-    "compatibility_tags": [
-      "Bluetooth",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "dcfba680-d731-4f9f-bfd4-2cfe23957458",
-    "name": "Modern Silk Shoes",
-    "price": 141628,
-    "category": "Accessories",
-    "stock": 39,
-    "description": "Ergonomic Hat made with Silk for all-day strict support",
-    "compatibility_tags": [
-      "Gaming",
       "USB-C",
       "Wireless"
     ]
   },
   {
-    "id": "8381dba3-535c-4620-b7b2-3d31e7926fe4",
-    "name": "Tasty Rubber Soap",
-    "price": 45314,
-    "category": "Accessories",
-    "stock": 38,
-    "description": "Elegant Hat designed with Granite for runny performance",
-    "compatibility_tags": [
-      "Portable",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "58cc5bc4-dab9-4161-96c4-94bb56e31894",
-    "name": "Licensed Marble Car",
-    "price": 67892,
-    "category": "Computers",
-    "stock": 57,
-    "description": "Frozen Ball designed with Bamboo for separate performance",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "b888d3b8-d977-4919-b6a8-79edf1b9d6ad",
-    "name": "Elegant Concrete Hat",
-    "price": 62043,
-    "category": "Wearables",
-    "stock": 53,
-    "description": "The Polarised zero administration adapter Chair offers reliable performance and narrow design",
-    "compatibility_tags": [
-      "USB-C",
-      "Office"
-    ]
-  },
-  {
-    "id": "e4894905-1a21-4b70-8784-32fb7f978639",
-    "name": "Intelligent Granite Fish",
-    "price": 47463,
-    "category": "Wearables",
-    "stock": 37,
-    "description": "Discover the fluffy new Ball with an exciting mix of Marble ingredients",
+    "id": "ba7782cc-b547-43ba-b361-42eb7adf074b",
+    "name": "Intelligent Steel Towels",
+    "price": 950,
+    "category": "Audio",
+    "stock": 60,
+    "description": "Our crunchy-inspired Chips brings a taste of luxury to your paltry lifestyle",
+    "imageUrl": "/products/product-4.jpg",
     "compatibility_tags": [
       "Bluetooth",
       "Wireless",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "941102f8-4f11-4b69-a46b-75b98d0a9d53",
-    "name": "Rustic Aluminum Car",
-    "price": 59324,
-    "category": "Wearables",
-    "stock": 69,
-    "description": "Experience the silver brilliance of our Gloves, perfect for deficient environments",
-    "compatibility_tags": [
-      "Wireless",
-      "Office",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "bab93667-a966-4d58-8fdc-b8c415fdbb76",
-    "name": "Fantastic Bronze Table",
-    "price": 24595,
-    "category": "Wearables",
-    "stock": 88,
-    "description": "The sleek and grizzled Soap comes with indigo LED lighting for smart functionality",
-    "compatibility_tags": [
-      "USB-C"
-    ]
-  },
-  {
-    "id": "b67b78c5-5156-44df-a6e5-1e6d21e56ab2",
-    "name": "Handcrafted Plastic Tuna",
-    "price": 126674,
-    "category": "Audio",
-    "stock": 3,
-    "description": "New Shoes model with 72 GB RAM, 915 GB storage, and slimy features",
-    "compatibility_tags": [
       "Smart Home"
     ]
   },
   {
-    "id": "94d67fa9-5481-4646-a92d-f9a94d299c11",
-    "name": "Rustic Cotton Table",
-    "price": 74180,
-    "category": "Accessories",
-    "stock": 22,
-    "description": "New indigo Pants with ergonomic design for incomplete comfort",
-    "compatibility_tags": [
-      "Gaming",
-      "Wireless",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "612240b0-de4b-4b42-ada9-d9a9433b5b30",
-    "name": "Awesome Rubber Pants",
-    "price": 74525,
-    "category": "Electronics",
-    "stock": 30,
-    "description": "Discover the messy new Keyboard with an exciting mix of Aluminum ingredients",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "4cb97553-f78d-489e-85a7-3d170998fa15",
-    "name": "Generic Steel Towels",
-    "price": 26366,
+    "id": "fc500bc3-87eb-43df-9d85-faa873126f32",
+    "name": "Unbranded Concrete Keyboard",
+    "price": 5000,
     "category": "Audio",
-    "stock": 31,
-    "description": "The Georgette Fish is the latest in a series of responsible products from Emard, Witting and Schaden",
-    "compatibility_tags": [
-      "Smart Home",
-      "Wireless",
-      "Office"
-    ]
-  },
-  {
-    "id": "59ca1f00-4126-470f-8e23-a76880cce557",
-    "name": "Generic Ceramic Chips",
-    "price": 138078,
-    "category": "Computers",
-    "stock": 12,
-    "description": "Discover the cow-like agility of our Keyboard, perfect for severe users",
+    "stock": 44,
+    "description": "Innovative Pants featuring prickly technology and Aluminum construction",
+    "imageUrl": "/products/product-2.jpg",
     "compatibility_tags": [
       "Portable"
     ]
   },
   {
-    "id": "f35adde7-8b7d-4634-bf39-04e98e8b5d1a",
-    "name": "Luxurious Aluminum Chair",
-    "price": 128659,
-    "category": "Computers",
-    "stock": 23,
-    "description": "Innovative Soap featuring fond technology and Cotton construction",
-    "compatibility_tags": [
-      "Wireless",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "61c27e6a-6037-4974-9e50-369ed3dc3a58",
-    "name": "Oriental Granite Hat",
-    "price": 149268,
-    "category": "Electronics",
-    "stock": 64,
-    "description": "Savor the tangy essence in our Car, designed for sticky culinary adventures",
-    "compatibility_tags": [
-      "Smart Home",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "1aa75feb-cc87-4e60-b943-26bdf31920f7",
-    "name": "Electronic Concrete Fish",
-    "price": 126299,
-    "category": "Computers",
-    "stock": 28,
-    "description": "Savor the rich essence in our Chair, designed for miserable culinary adventures",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "9ce737db-7ba3-4475-ac43-09f68b02d0af",
-    "name": "Modern Steel Hat",
-    "price": 30473,
-    "category": "Computers",
-    "stock": 58,
-    "description": "Discover the deer-like agility of our Table, perfect for abandoned users",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "7246e00f-4c97-4528-937e-d1349c438501",
-    "name": "Awesome Wooden Soap",
-    "price": 1679,
-    "category": "Accessories",
-    "stock": 72,
-    "description": "The Digitized 24 hour system engine Shoes offers reliable performance and worthwhile design",
-    "compatibility_tags": [
-      "USB-C",
-      "Office"
-    ]
-  },
-  {
-    "id": "a3d7496b-b847-4f6d-b933-a4588b53b229",
-    "name": "Fresh Ceramic Keyboard",
-    "price": 61071,
-    "category": "Electronics",
-    "stock": 34,
-    "description": "Our salty-inspired Chips brings a taste of luxury to your plain lifestyle",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "ba9df1d3-ffd1-46d0-8533-cfffe43bf5d4",
-    "name": "Luxurious Rubber Bacon",
-    "price": 26653,
-    "category": "Accessories",
-    "stock": 76,
-    "description": "Experience the black brilliance of our Bike, perfect for shady environments",
-    "compatibility_tags": [
-      "Office",
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "53229ded-ae81-4d03-8be8-26fc243bb201",
-    "name": "Refined Wooden Ball",
-    "price": 93736,
+    "id": "fce902c9-9e5f-4c5b-9ea3-be361ac5f81e",
+    "name": "Bespoke Ceramic Fish",
+    "price": 10000,
     "category": "Wearables",
     "stock": 23,
-    "description": "New Bacon model with 36 GB RAM, 538 GB storage, and sturdy features",
+    "description": "The sleek and low Table comes with teal LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/1618/1665/technology?lock=8135191192860199",
     "compatibility_tags": [
-      "USB-C"
+      "Portable",
+      "Bluetooth"
     ]
   },
   {
-    "id": "4a316d24-425f-4138-9dd1-ebe8fa95b01c",
-    "name": "Electronic Steel Fish",
-    "price": 117242,
-    "category": "Computers",
-    "stock": 17,
-    "description": "Our rhinoceros-friendly Ball ensures pertinent comfort for your pets",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "5a286ce1-ac4b-49c9-bac4-ff0def80ebcb",
-    "name": "Fantastic Granite Tuna",
-    "price": 20814,
-    "category": "Computers",
-    "stock": 79,
-    "description": "Stylish Fish designed to make you stand out with negative looks",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "3e33e856-5080-4c2a-9be5-35947cf71770",
-    "name": "Licensed Cotton Chicken",
-    "price": 75563,
-    "category": "Audio",
-    "stock": 20,
-    "description": "Our ostrich-friendly Car ensures live comfort for your pets",
-    "compatibility_tags": [
-      "USB-C",
-      "Bluetooth",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "2ca79279-3b52-4fd2-979a-10c5d6ef13b6",
-    "name": "Small Bamboo Bacon",
-    "price": 131809,
-    "category": "Computers",
-    "stock": 77,
-    "description": "Fantastic Towels designed with Granite for skeletal performance",
+    "id": "5ee77824-7fef-4b98-955a-34991268bdbd",
+    "name": "Licensed Marble Mouse",
+    "price": 1500,
+    "category": "Accessories",
+    "stock": 10,
+    "description": "Stylish Towels designed to make you stand out with gripping looks",
+    "imageUrl": "/products/product-3.jpg",
     "compatibility_tags": [
       "Bluetooth"
     ]
   },
   {
-    "id": "cb44653d-fde9-4251-a5d0-a694e8a6e2fe",
-    "name": "Tasty Rubber Fish",
-    "price": 26178,
-    "category": "Computers",
-    "stock": 72,
-    "description": "Stylish Chips designed to make you stand out with whole looks",
-    "compatibility_tags": [
-      "Portable",
-      "Bluetooth",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "d420bb1a-6bf8-4409-8da4-a4864ced5a6e",
-    "name": "Modern Plastic Computer",
-    "price": 64956,
-    "category": "Accessories",
-    "stock": 49,
-    "description": "Experience the maroon brilliance of our Soap, perfect for mundane environments",
-    "compatibility_tags": [
-      "Office",
-      "USB-C",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "0a6b2415-bf71-4de4-96f8-eea9edfd3957",
-    "name": "Intelligent Granite Fish",
-    "price": 53151,
-    "category": "Electronics",
-    "stock": 49,
-    "description": "New Bacon model with 47 GB RAM, 171 GB storage, and right features",
-    "compatibility_tags": [
-      "Office",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "496f51b8-3231-4941-b42a-3109f86494da",
-    "name": "Small Bronze Computer",
-    "price": 31496,
-    "category": "Computers",
-    "stock": 53,
-    "description": "Innovative Mouse featuring stingy technology and Aluminum construction",
-    "compatibility_tags": [
-      "Portable",
-      "Smart Home",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "f6530574-9e3c-49e3-9b6f-6ada92e28b46",
-    "name": "Soft Aluminum Sausages",
-    "price": 41188,
-    "category": "Computers",
-    "stock": 67,
-    "description": "Our rich-inspired Chicken brings a taste of luxury to your tasty lifestyle",
-    "compatibility_tags": [
-      "Portable"
-    ]
-  },
-  {
-    "id": "77089d2d-3479-4948-bd89-061ecff745fc",
-    "name": "Licensed Ceramic Soap",
-    "price": 30414,
-    "category": "Computers",
-    "stock": 82,
-    "description": "Professional-grade Chicken perfect for snarling training and recreational use",
-    "compatibility_tags": [
-      "Portable",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "7de1d655-0b6d-42cf-8855-3c9ad37eb0d9",
-    "name": "Rustic Aluminum Soap",
-    "price": 7771,
-    "category": "Computers",
-    "stock": 97,
-    "description": "Savor the fresh essence in our Shoes, designed for antique culinary adventures",
-    "compatibility_tags": [
-      "Office",
-      "USB-C"
-    ]
-  },
-  {
-    "id": "524a63d0-9ae6-46d5-9af3-14fb8f4ca814",
-    "name": "Intelligent Rubber Gloves",
-    "price": 78335,
-    "category": "Electronics",
-    "stock": 84,
-    "description": "Discover the bee-like agility of our Chicken, perfect for infinite users",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "9ba74f51-671e-446d-af98-e12dc791165a",
-    "name": "Incredible Wooden Shoes",
-    "price": 55819,
-    "category": "Audio",
-    "stock": 49,
-    "description": "The fuchsia Shirt combines Tokelau aesthetics with Molybdenum-based durability",
-    "compatibility_tags": [
-      "Gaming",
-      "Smart Home",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "5cf468fb-ff45-48e4-8d6a-4552f7fbb929",
-    "name": "Bespoke Rubber Chair",
-    "price": 122495,
-    "category": "Wearables",
-    "stock": 16,
-    "description": "The sleek and creamy Tuna comes with red LED lighting for smart functionality",
-    "compatibility_tags": [
-      "Bluetooth",
-      "Office",
-      "Portable"
-    ]
-  },
-  {
-    "id": "17924e91-dae5-4630-983a-ab4f8a0729be",
-    "name": "Generic Aluminum Chips",
-    "price": 67939,
-    "category": "Electronics",
-    "stock": 24,
-    "description": "The green Gloves combines Cambodia aesthetics with Gallium-based durability",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "76b3633c-6d27-4b73-95b5-bfcb421a5eff",
-    "name": "Handmade Wooden Sausages",
-    "price": 60456,
-    "category": "Accessories",
-    "stock": 82,
-    "description": "Ergonomic Table made with Wooden for all-day present support",
-    "compatibility_tags": [
-      "USB-C",
-      "Smart Home",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "ea8108f6-b436-4a15-9b7e-e0376d32c9b0",
-    "name": "Elegant Granite Pants",
-    "price": 55399,
-    "category": "Accessories",
-    "stock": 31,
-    "description": "The white Ball combines New Zealand aesthetics with Fermium-based durability",
-    "compatibility_tags": [
-      "Office"
-    ]
-  },
-  {
-    "id": "53adf701-4427-4245-ba3c-ddb6c6bea8ee",
-    "name": "Handmade Marble Pants",
-    "price": 42196,
-    "category": "Computers",
-    "stock": 51,
-    "description": "Experience the indigo brilliance of our Car, perfect for granular environments",
-    "compatibility_tags": [
-      "USB-C",
-      "Wireless",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "c44c8403-43cb-409e-9c53-23ead9501176",
-    "name": "Tasty Steel Tuna",
-    "price": 16043,
-    "category": "Accessories",
-    "stock": 34,
-    "description": "Discover the gorgeous new Hat with an exciting mix of Bamboo ingredients",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "15cc67d7-c316-4c3e-9129-c27843865e1e",
-    "name": "Incredible Wooden Pizza",
-    "price": 10200,
-    "category": "Accessories",
-    "stock": 84,
-    "description": "Discover the dependable new Tuna with an exciting mix of Aluminum ingredients",
-    "compatibility_tags": [
-      "USB-C",
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "352c87ae-56b4-4748-97ae-d948abe772d1",
-    "name": "Generic Bamboo Pizza",
-    "price": 53169,
-    "category": "Accessories",
-    "stock": 66,
-    "description": "Discover the spotless new Car with an exciting mix of Marble ingredients",
-    "compatibility_tags": [
-      "Bluetooth"
-    ]
-  },
-  {
-    "id": "74181ffe-8b09-489a-a0b5-3fcc6f4b8968",
-    "name": "Gorgeous Metal Shoes",
-    "price": 111473,
-    "category": "Audio",
-    "stock": 71,
-    "description": "New Chair model with 62 GB RAM, 927 GB storage, and huge features",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "162e61f8-1462-485e-ae5a-a78f8f8946d8",
-    "name": "Licensed Marble Fish",
-    "price": 10498,
-    "category": "Audio",
-    "stock": 45,
-    "description": "Savor the crispy essence in our Pants, designed for snappy culinary adventures",
-    "compatibility_tags": [
-      "Gaming",
-      "Bluetooth",
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "6c2cee72-28f2-4eda-88dd-77582233e1f8",
-    "name": "Ergonomic Ceramic Cheese",
-    "price": 98900,
-    "category": "Accessories",
-    "stock": 69,
-    "description": "Featuring Tin-enhanced technology, our Car offers unparalleled lucky performance",
-    "compatibility_tags": [
-      "Wireless",
-      "Portable",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "1a13de21-8f55-4e11-9c53-904977ba87fb",
-    "name": "Gorgeous Wooden Keyboard",
-    "price": 90561,
-    "category": "Computers",
-    "stock": 28,
-    "description": "The tan Shoes combines Germany aesthetics with Oxygen-based durability",
-    "compatibility_tags": [
-      "Smart Home"
-    ]
-  },
-  {
-    "id": "df7c2f9e-cf14-4f86-9c7c-1112a9a212c9",
-    "name": "Unbranded Steel Car",
-    "price": 34075,
-    "category": "Computers",
-    "stock": 95,
-    "description": "Ergonomic Pants made with Bamboo for all-day far-off support",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "f614bbe2-4d22-470d-9ccd-7bd22a32f3b5",
-    "name": "Intelligent Silk Tuna",
-    "price": 98399,
-    "category": "Electronics",
-    "stock": 88,
-    "description": "Rice and Sons's most advanced Hat technology increases pleasant capabilities",
-    "compatibility_tags": [
-      "Office",
-      "Smart Home",
-      "Portable"
-    ]
-  },
-  {
-    "id": "13a09542-6a49-41c6-883a-fec2afde30b4",
-    "name": "Modern Rubber Computer",
-    "price": 47645,
-    "category": "Wearables",
-    "stock": 62,
-    "description": "Gulgowski Inc's most advanced Car technology increases reflecting capabilities",
-    "compatibility_tags": [
-      "Wireless"
-    ]
-  },
-  {
-    "id": "2d2cabb4-0d09-43e4-8d28-10ea6c3ed078",
-    "name": "Unbranded Rubber Cheese",
-    "price": 124882,
-    "category": "Wearables",
-    "stock": 41,
-    "description": "Ergonomic Shoes made with Granite for all-day ruddy support",
-    "compatibility_tags": [
-      "Gaming"
-    ]
-  },
-  {
-    "id": "934ce9ce-028c-4698-90d2-7d605d961917",
-    "name": "Fresh Steel Chair",
-    "price": 80966,
+    "id": "57a45db5-e03a-4bbe-9910-05158cbe3c05",
+    "name": "Generic Metal Fish",
+    "price": 1500,
     "category": "Accessories",
     "stock": 59,
-    "description": "Discover the sudden new Car with an exciting mix of Silk ingredients",
+    "description": "Ergonomic Pants made with Rubber for all-day beloved support",
+    "imageUrl": "https://loremflickr.com/1124/3899/technology?lock=3603444001024089",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "9514eb41-20fd-4ddf-ada2-59a1ba4f7aa5",
+    "name": "Soft Rubber Pants",
+    "price": 1399,
+    "category": "Accessories",
+    "stock": 3,
+    "description": "Modern Tuna designed with Bamboo for substantial performance",
+    "imageUrl": "https://loremflickr.com/3192/3693/technology?lock=256923057679767",
+    "compatibility_tags": [
+      "Office",
+      "Portable",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "e295e1e7-a9c4-49a7-a8f8-bf512eb37102",
+    "name": "Refined Granite Ball",
+    "price": 85343,
+    "category": "Accessories",
+    "stock": 32,
+    "description": "Innovative Bacon featuring acclaimed technology and Bronze construction",
+    "imageUrl": "https://loremflickr.com/1248/730/technology?lock=5368669749944498",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "81c3b040-2ec4-4865-808b-84ee21e525d3",
+    "name": "Elegant Ceramic Pants",
+    "price": 84368,
+    "category": "Computers",
+    "stock": 60,
+    "description": "Experience the black brilliance of our Soap, perfect for beneficial environments",
+    "imageUrl": "https://loremflickr.com/2029/2762/technology?lock=626346997541782",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "1807a6ef-5646-45bb-b4e7-07cd57cd6805",
+    "name": "Awesome Granite Cheese",
+    "price": 18594,
+    "category": "Wearables",
+    "stock": 4,
+    "description": "The Alec Shirt is the latest in a series of austere products from Mayert, Huels and Runte",
+    "imageUrl": "https://loremflickr.com/3701/3380/technology?lock=8866331197094789",
+    "compatibility_tags": [
+      "Office",
+      "Bluetooth",
+      "Portable"
+    ]
+  },
+  {
+    "id": "0240f8d2-6f71-434b-9a69-4c9733abb7f7",
+    "name": "Awesome Plastic Car",
+    "price": 2000,
+    "category": "Accessories",
+    "stock": 56,
+    "description": "Ergonomic Ball made with Steel for all-day low support",
+    "imageUrl": "/products/product-5.jpg",
+    "compatibility_tags": [
+      "Smart Home",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "0c60c958-7319-4c5e-a315-ced717bba09a",
+    "name": "Handmade Bronze Cheese",
+    "price": 92657,
+    "category": "Audio",
+    "stock": 54,
+    "description": "Our rich-inspired Tuna brings a taste of luxury to your improbable lifestyle",
+    "imageUrl": "https://loremflickr.com/132/3050/technology?lock=1225911794894088",
+    "compatibility_tags": [
+      "Gaming",
+      "Portable"
+    ]
+  },
+  {
+    "id": "b4e5c158-9cbd-46de-9f35-dbaaff204c88",
+    "name": "Licensed Bamboo Bike",
+    "price": 15000,
+    "category": "Audio",
+    "stock": 13,
+    "description": "Frozen Towels designed with Aluminum for runny performance",
+    "imageUrl": "/products/product-1.jpg",
+    "compatibility_tags": [
+      "Gaming",
+      "Smart Home",
+      "Portable"
+    ]
+  },
+  {
+    "id": "705237cd-3d70-4359-86d7-1cdf19dd7722",
+    "name": "Electronic Rubber Ball",
+    "price": 11398,
+    "category": "Computers",
+    "stock": 24,
+    "description": "The mint green Mouse combines Guam aesthetics with Mendelevium-based durability",
+    "imageUrl": "https://loremflickr.com/1147/3492/technology?lock=4552146427544040",
     "compatibility_tags": [
       "Portable",
-      "Smart Home",
       "Bluetooth"
     ]
   },
   {
-    "id": "70d44e8e-300b-4d0b-a013-b61d3a1b7c60",
-    "name": "Awesome Steel Shirt",
-    "price": 99472,
-    "category": "Wearables",
-    "stock": 97,
-    "description": "Discover the witty new Shoes with an exciting mix of Aluminum ingredients",
+    "id": "8c813e61-b4d5-4ae5-b97a-9468be43d62c",
+    "name": "Refined Wooden Tuna",
+    "price": 74259,
+    "category": "Audio",
+    "stock": 21,
+    "description": "Savor the sweet essence in our Fish, designed for cloudy culinary adventures",
+    "imageUrl": "https://loremflickr.com/2747/77/technology?lock=1606349067324820",
+    "compatibility_tags": [
+      "Office",
+      "Portable",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "b368ade9-b82f-488c-a39f-5ff6091e30b9",
+    "name": "Recycled Metal Towels",
+    "price": 94339,
+    "category": "Accessories",
+    "stock": 25,
+    "description": "Professional-grade Mouse perfect for another training and recreational use",
+    "imageUrl": "https://loremflickr.com/1919/1318/technology?lock=1085270891470689",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "0a0ca51d-6367-45c1-adfa-e627542173da",
+    "name": "Incredible Metal Pizza",
+    "price": 90747,
+    "category": "Electronics",
+    "stock": 85,
+    "description": "Innovative Chicken featuring weary technology and Plastic construction",
+    "imageUrl": "https://loremflickr.com/2448/2131/technology?lock=7498197035949779",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "c98bf79c-18f0-4653-8f8a-aa40db66b41b",
+    "name": "Bespoke Metal Soap",
+    "price": 148402,
+    "category": "Computers",
+    "stock": 49,
+    "description": "Discover the peacock-like agility of our Keyboard, perfect for hefty users",
+    "imageUrl": "https://loremflickr.com/1456/1186/technology?lock=603396601904795",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "23687556-b3c6-4d63-952c-7dfe8f97c874",
+    "name": "Generic Cotton Towels",
+    "price": 5611,
+    "category": "Accessories",
+    "stock": 26,
+    "description": "Hackett - Tromp's most advanced Sausages technology increases sneaky capabilities",
+    "imageUrl": "https://loremflickr.com/1771/1723/technology?lock=2500737819754502",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "461f28c7-5f76-4a54-8ec5-7c603f1fa792",
+    "name": "Fantastic Steel Ball",
+    "price": 63916,
+    "category": "Computers",
+    "stock": 42,
+    "description": "Fantastic Cheese designed with Metal for zealous performance",
+    "imageUrl": "https://loremflickr.com/1743/1621/technology?lock=4160119648975651",
     "compatibility_tags": [
       "Smart Home",
+      "Bluetooth",
+      "Portable"
+    ]
+  },
+  {
+    "id": "8b1bbc9e-3749-404a-a649-6da18e0fe56f",
+    "name": "Generic Silk Soap",
+    "price": 26820,
+    "category": "Wearables",
+    "stock": 100,
+    "description": "Introducing the Brunei Darussalam-inspired Pizza, blending second-hand style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/3627/2106/technology?lock=7620589498604579",
+    "compatibility_tags": [
+      "Office",
+      "Portable",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "e2315175-202c-478f-b97d-d55dfe40620f",
+    "name": "Unbranded Marble Chair",
+    "price": 70280,
+    "category": "Electronics",
+    "stock": 61,
+    "description": "Experience the magenta brilliance of our Ball, perfect for junior environments",
+    "imageUrl": "https://loremflickr.com/2497/2347/technology?lock=346097652475844",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "264ce02d-3234-43d0-a999-9892556bc095",
+    "name": "Unbranded Silk Computer",
+    "price": 40038,
+    "category": "Audio",
+    "stock": 13,
+    "description": "New Table model with 31 GB RAM, 412 GB storage, and sizzling features",
+    "imageUrl": "https://loremflickr.com/3995/3538/technology?lock=4808177968308887",
+    "compatibility_tags": [
+      "Portable",
+      "Office",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "d82b5d03-25fc-40c8-8e65-52af9629b726",
+    "name": "Elegant Silk Shoes",
+    "price": 8621,
+    "category": "Electronics",
+    "stock": 51,
+    "description": "Handmade Fish designed with Concrete for sentimental performance",
+    "imageUrl": "https://loremflickr.com/511/3282/technology?lock=8594326030830788",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "025cc0e3-1933-402f-b0d8-54651f4ed7b0",
+    "name": "Gorgeous Marble Gloves",
+    "price": 43226,
+    "category": "Wearables",
+    "stock": 24,
+    "description": "New lime Bike with ergonomic design for blue comfort",
+    "imageUrl": "https://loremflickr.com/134/3597/technology?lock=3406532841269476",
+    "compatibility_tags": [
+      "Wireless",
+      "USB-C",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "03e7ef87-c06c-4eb7-a137-855fd620ad86",
+    "name": "Awesome Marble Cheese",
+    "price": 18865,
+    "category": "Audio",
+    "stock": 27,
+    "description": "Discover the quixotic new Chicken with an exciting mix of Steel ingredients",
+    "imageUrl": "https://loremflickr.com/86/1594/technology?lock=2430841079168691",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "6e101a58-6a2c-486f-bd0d-459f5923143d",
+    "name": "Fresh Granite Towels",
+    "price": 3890,
+    "category": "Audio",
+    "stock": 98,
+    "description": "Introducing the Indonesia-inspired Ball, blending mammoth style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/1503/2694/technology?lock=7994929044243480",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "a2f5ce0c-0e38-4f06-9f55-a7bbc8fba252",
+    "name": "Intelligent Aluminum Bacon",
+    "price": 120597,
+    "category": "Computers",
+    "stock": 98,
+    "description": "Stylish Table designed to make you stand out with torn looks",
+    "imageUrl": "https://loremflickr.com/3434/2789/technology?lock=5472432719225662",
+    "compatibility_tags": [
+      "USB-C",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "f7290a98-9879-4a08-b083-91fdf4c69d43",
+    "name": "Small Wooden Chair",
+    "price": 81604,
+    "category": "Accessories",
+    "stock": 19,
+    "description": "Discover the inexperienced new Keyboard with an exciting mix of Plastic ingredients",
+    "imageUrl": "https://loremflickr.com/2109/2100/technology?lock=8247433234581211",
+    "compatibility_tags": [
+      "Gaming",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "ff068d4e-d1e9-4df7-95ee-bd83c3762a21",
+    "name": "Fresh Granite Car",
+    "price": 43202,
+    "category": "Wearables",
+    "stock": 83,
+    "description": "Our rich-inspired Chair brings a taste of luxury to your dependent lifestyle",
+    "imageUrl": "https://loremflickr.com/868/2605/technology?lock=4436640222102321",
+    "compatibility_tags": [
+      "USB-C",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "9721e670-1350-459d-87fd-ac70c0dfef4d",
+    "name": "Fantastic Wooden Bacon",
+    "price": 94805,
+    "category": "Electronics",
+    "stock": 11,
+    "description": "Professional-grade Pants perfect for needy training and recreational use",
+    "imageUrl": "https://loremflickr.com/3901/2916/technology?lock=4977483549314675",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Portable",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "d7805252-ce99-45b2-a30c-0635e69ace53",
+    "name": "Licensed Rubber Shirt",
+    "price": 76068,
+    "category": "Accessories",
+    "stock": 50,
+    "description": "New Towels model with 96 GB RAM, 993 GB storage, and impassioned features",
+    "imageUrl": "https://loremflickr.com/3209/3533/technology?lock=8204680506609291",
+    "compatibility_tags": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "5bbedeba-5f82-4f2f-a5f4-9881f3c3bb83",
+    "name": "Intelligent Marble Chips",
+    "price": 95683,
+    "category": "Computers",
+    "stock": 53,
+    "description": "Experience the purple brilliance of our Chips, perfect for shoddy environments",
+    "imageUrl": "https://loremflickr.com/3930/685/technology?lock=182135909484684",
+    "compatibility_tags": [
+      "USB-C",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "508de9cd-15c1-4e50-8ef2-5c253c0e3174",
+    "name": "Oriental Concrete Gloves",
+    "price": 36570,
+    "category": "Wearables",
+    "stock": 26,
+    "description": "Glover, Fahey and Predovic's most advanced Salad technology increases leading capabilities",
+    "imageUrl": "https://loremflickr.com/1420/3180/technology?lock=2649575357624438",
+    "compatibility_tags": [
+      "Portable",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "d3bba3c8-5883-4d66-9118-3b86a357e818",
+    "name": "Rustic Metal Chips",
+    "price": 134423,
+    "category": "Electronics",
+    "stock": 61,
+    "description": "Discover the giraffe-like agility of our Computer, perfect for lumpy users",
+    "imageUrl": "https://loremflickr.com/3349/3288/technology?lock=5785088352980588",
+    "compatibility_tags": [
+      "Wireless",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "51086465-a3c5-453e-995b-d9a0cf8de85d",
+    "name": "Modern Plastic Tuna",
+    "price": 109544,
+    "category": "Electronics",
+    "stock": 43,
+    "description": "New Table model with 90 GB RAM, 133 GB storage, and golden features",
+    "imageUrl": "https://loremflickr.com/1778/3650/technology?lock=8358375352975208",
+    "compatibility_tags": [
+      "Office",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "a4d749b3-0229-4bb2-8c4a-f17377b40733",
+    "name": "Gorgeous Silk Keyboard",
+    "price": 125822,
+    "category": "Computers",
+    "stock": 94,
+    "description": "Featuring Mercury-enhanced technology, our Chips offers unparalleled quixotic performance",
+    "imageUrl": "https://loremflickr.com/1130/1677/technology?lock=5101445760228986",
+    "compatibility_tags": [
+      "Smart Home",
+      "USB-C",
+      "Portable"
+    ]
+  },
+  {
+    "id": "a6c46ce7-337c-45da-bb8b-d62f6816b08d",
+    "name": "Unbranded Bamboo Keyboard",
+    "price": 122278,
+    "category": "Wearables",
+    "stock": 82,
+    "description": "New Hat model with 60 GB RAM, 268 GB storage, and gullible features",
+    "imageUrl": "https://loremflickr.com/1809/633/technology?lock=2101451891205671",
+    "compatibility_tags": [
+      "Office",
+      "Wireless",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "2aa3543e-74b6-46ff-8f0a-00470398b916",
+    "name": "Awesome Gold Pizza",
+    "price": 58692,
+    "category": "Computers",
+    "stock": 24,
+    "description": "Discover the genuine new Table with an exciting mix of Aluminum ingredients",
+    "imageUrl": "https://loremflickr.com/89/1577/technology?lock=3084859008720530",
+    "compatibility_tags": [
+      "Portable",
+      "Office",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "96a38968-90e0-4afc-8d26-62ac0110ef76",
+    "name": "Sleek Aluminum Soap",
+    "price": 126842,
+    "category": "Computers",
+    "stock": 78,
+    "description": "Experience the green brilliance of our Keyboard, perfect for rosy environments",
+    "imageUrl": "https://loremflickr.com/2140/3536/technology?lock=6569446977602070",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "e4aa2ab7-7503-4e3b-8fd3-fff3bec12bbc",
+    "name": "Oriental Aluminum Ball",
+    "price": 88617,
+    "category": "Wearables",
+    "stock": 58,
+    "description": "Introducing the Hong Kong-inspired Computer, blending hateful style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/3190/3748/technology?lock=6411661780447721",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "24082d85-5d5f-4cbb-93d6-41e2374cea6b",
+    "name": "Elegant Silk Shirt",
+    "price": 132064,
+    "category": "Computers",
+    "stock": 46,
+    "description": "Featuring Caesium-enhanced technology, our Salad offers unparalleled everlasting performance",
+    "imageUrl": "https://loremflickr.com/1973/1534/technology?lock=7538799383546857",
+    "compatibility_tags": [
+      "Office",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "10dbbf4d-48a1-4032-af0f-63daac912c06",
+    "name": "Handmade Rubber Fish",
+    "price": 38348,
+    "category": "Electronics",
+    "stock": 2,
+    "description": "The sleek and thorny Gloves comes with gold LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/2870/3990/technology?lock=1044669235632403",
+    "compatibility_tags": [
+      "USB-C",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "95509cf2-ae7a-4a39-86b3-a5733e0311c7",
+    "name": "Handmade Concrete Shirt",
+    "price": 72642,
+    "category": "Wearables",
+    "stock": 87,
+    "description": "Our sour-inspired Table brings a taste of luxury to your soulful lifestyle",
+    "imageUrl": "https://loremflickr.com/3117/663/technology?lock=5895081558831342",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "50d89483-b2e8-47f2-bbbd-b17ee838815e",
+    "name": "Gorgeous Marble Salad",
+    "price": 2156,
+    "category": "Wearables",
+    "stock": 31,
+    "description": "Stylish Gloves designed to make you stand out with clueless looks",
+    "imageUrl": "https://loremflickr.com/2826/2133/technology?lock=8596658660648872",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "9dd2ed19-eced-4faa-af46-a0424374e1ce",
+    "name": "Oriental Marble Pants",
+    "price": 60436,
+    "category": "Computers",
+    "stock": 51,
+    "description": "Featuring Molybdenum-enhanced technology, our Chicken offers unparalleled variable performance",
+    "imageUrl": "https://loremflickr.com/765/3158/technology?lock=6664221075505726",
+    "compatibility_tags": [
+      "Wireless",
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "23eb5ddb-f391-4048-914c-dda7436f81cd",
+    "name": "Modern Steel Towels",
+    "price": 43514,
+    "category": "Wearables",
+    "stock": 50,
+    "description": "The Smart dedicated standardization Ball offers reliable performance and courteous design",
+    "imageUrl": "https://loremflickr.com/3324/2509/technology?lock=3099612091575157",
+    "compatibility_tags": [
+      "Office",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "443bda7f-e636-40fc-8967-2254bb53cfa8",
+    "name": "Fantastic Cotton Bike",
+    "price": 70592,
+    "category": "Electronics",
+    "stock": 13,
+    "description": "Our smoky-inspired Bike brings a taste of luxury to your ethical lifestyle",
+    "imageUrl": "https://loremflickr.com/102/1390/technology?lock=837251482790962",
+    "compatibility_tags": [
+      "Wireless",
+      "Bluetooth",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "5671079e-e6c9-45ff-a178-7d32a4c5e2c4",
+    "name": "Fantastic Concrete Gloves",
+    "price": 19010,
+    "category": "Electronics",
+    "stock": 23,
+    "description": "Discover the pale new Pants with an exciting mix of Gold ingredients",
+    "imageUrl": "https://loremflickr.com/354/1532/technology?lock=2070519980716060",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "17a7518a-495c-4348-bc1f-15994076158c",
+    "name": "Fantastic Metal Ball",
+    "price": 73016,
+    "category": "Computers",
+    "stock": 11,
+    "description": "Ergonomic Soap made with Rubber for all-day some support",
+    "imageUrl": "https://loremflickr.com/2958/2185/technology?lock=3283730341062493",
+    "compatibility_tags": [
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "8ad36335-b8cd-4b36-baab-72c67a165f6b",
+    "name": "Bespoke Gold Keyboard",
+    "price": 94247,
+    "category": "Accessories",
+    "stock": 17,
+    "description": "The sleek and accurate Gloves comes with mint green LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/3118/1213/technology?lock=3697888007794676",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "8f2ca555-1e0c-423a-89af-21af7f7af81b",
+    "name": "Tasty Wooden Table",
+    "price": 16275,
+    "category": "Electronics",
+    "stock": 68,
+    "description": "Professional-grade Chair perfect for profuse training and recreational use",
+    "imageUrl": "https://loremflickr.com/3669/2842/technology?lock=471735681276262",
+    "compatibility_tags": [
+      "Smart Home",
+      "Gaming",
+      "Office"
+    ]
+  },
+  {
+    "id": "167b94ab-bec0-47f6-ab22-0b51a2a0cab2",
+    "name": "Bespoke Ceramic Towels",
+    "price": 102081,
+    "category": "Computers",
+    "stock": 79,
+    "description": "Savor the fluffy essence in our Gloves, designed for ignorant culinary adventures",
+    "imageUrl": "https://loremflickr.com/3276/221/technology?lock=2070691974145530",
+    "compatibility_tags": [
+      "Smart Home",
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "d3cfe54e-6e7c-4ecd-a281-c98d627b3368",
+    "name": "Tasty Aluminum Shirt",
+    "price": 52812,
+    "category": "Wearables",
+    "stock": 82,
+    "description": "Experience the white brilliance of our Chips, perfect for scaly environments",
+    "imageUrl": "https://loremflickr.com/2668/2416/technology?lock=6897564337369991",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "12d04b41-c0f2-49dd-9e4a-0db1d651262e",
+    "name": "Fresh Bamboo Chicken",
+    "price": 109477,
+    "category": "Accessories",
+    "stock": 12,
+    "description": "Introducing the Argentina-inspired Soap, blending rich style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/1494/3728/technology?lock=8872965815287947",
+    "compatibility_tags": [
+      "USB-C",
+      "Portable",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "5eb67ea5-65a8-4905-bb19-d7ddf45665a4",
+    "name": "Incredible Bronze Table",
+    "price": 45327,
+    "category": "Accessories",
+    "stock": 77,
+    "description": "Our fish-friendly Pizza ensures well-lit comfort for your pets",
+    "imageUrl": "https://loremflickr.com/538/2432/technology?lock=7851464510334638",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "ef0efc70-a0a4-453e-b0cd-8dd329cf3011",
+    "name": "Intelligent Bronze Mouse",
+    "price": 26420,
+    "category": "Electronics",
+    "stock": 44,
+    "description": "New salmon Gloves with ergonomic design for steel comfort",
+    "imageUrl": "https://loremflickr.com/920/1888/technology?lock=6381918220263367",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Portable"
+    ]
+  },
+  {
+    "id": "09ed9c7f-0af5-4a4d-89fc-7fa31adaf0ec",
+    "name": "Ergonomic Rubber Shoes",
+    "price": 68558,
+    "category": "Wearables",
+    "stock": 66,
+    "description": "Professional-grade Fish perfect for bright training and recreational use",
+    "imageUrl": "https://loremflickr.com/2794/2236/technology?lock=7813886830331785",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "81107121-d3b3-4ecf-b6a8-562b67f6cac8",
+    "name": "Oriental Concrete Sausages",
+    "price": 51406,
+    "category": "Computers",
+    "stock": 6,
+    "description": "Our gecko-friendly Mouse ensures productive comfort for your pets",
+    "imageUrl": "https://loremflickr.com/52/3626/technology?lock=4738126216936943",
+    "compatibility_tags": [
+      "Gaming",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "1d92e4f7-f1c1-4c48-818c-17dd30f82888",
+    "name": "Unbranded Silk Fish",
+    "price": 122364,
+    "category": "Accessories",
+    "stock": 0,
+    "description": "The Emanuel Keyboard is the latest in a series of grounded products from Stamm Group",
+    "imageUrl": "https://loremflickr.com/2624/1476/technology?lock=4939995970938084",
+    "compatibility_tags": [
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "5ddd81d2-1c29-44ad-81cf-42093b40f383",
+    "name": "Electronic Granite Gloves",
+    "price": 84957,
+    "category": "Audio",
+    "stock": 25,
+    "description": "Our rich-inspired Keyboard brings a taste of luxury to your pointless lifestyle",
+    "imageUrl": "https://loremflickr.com/1874/538/technology?lock=1864004986457637",
+    "compatibility_tags": [
+      "Gaming",
+      "Wireless",
+      "Office"
+    ]
+  },
+  {
+    "id": "0cf82727-e60c-4d54-8a55-a5cf17b5c4b6",
+    "name": "Practical Wooden Gloves",
+    "price": 36950,
+    "category": "Audio",
+    "stock": 28,
+    "description": "The Jessy Chicken is the latest in a series of neat products from Baumbach - Runolfsdottir",
+    "imageUrl": "https://loremflickr.com/2597/2551/technology?lock=8373110134678123",
+    "compatibility_tags": [
+      "Smart Home",
+      "Office",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "0553472d-9e1a-4068-a97e-f91ca0c06ea3",
+    "name": "Modern Silk Shirt",
+    "price": 81221,
+    "category": "Accessories",
+    "stock": 84,
+    "description": "The Centralized demand-driven task-force Shirt offers reliable performance and bustling design",
+    "imageUrl": "https://loremflickr.com/2222/986/technology?lock=5243544614430670",
+    "compatibility_tags": [
+      "Wireless",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "6d48d522-392c-4151-813b-cff35148a06f",
+    "name": "Elegant Marble Salad",
+    "price": 97700,
+    "category": "Audio",
+    "stock": 98,
+    "description": "Discover the damaged new Soap with an exciting mix of Gold ingredients",
+    "imageUrl": "https://loremflickr.com/3833/3834/technology?lock=2779531588507175",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "750fa629-ddf8-4ed3-9a2a-4bf45372ab81",
+    "name": "Bespoke Gold Computer",
+    "price": 104169,
+    "category": "Wearables",
+    "stock": 13,
+    "description": "Featuring Tin-enhanced technology, our Hat offers unparalleled physical performance",
+    "imageUrl": "https://loremflickr.com/3292/1898/technology?lock=2192651696206948",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "a888530f-0f53-42b5-8803-cd9d4d943822",
+    "name": "Modern Granite Fish",
+    "price": 126215,
+    "category": "Computers",
+    "stock": 76,
+    "description": "The sleek and vague Keyboard comes with turquoise LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/3397/3976/technology?lock=6740776710249655",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "1baa937c-4a81-4cfc-b696-2688bec8206b",
+    "name": "Oriental Cotton Soap",
+    "price": 55964,
+    "category": "Computers",
+    "stock": 87,
+    "description": "The turquoise Bike combines Cambodia aesthetics with Dysprosium-based durability",
+    "imageUrl": "https://loremflickr.com/1011/198/technology?lock=162909339742239",
+    "compatibility_tags": [
+      "Portable",
+      "Bluetooth",
+      "Office"
+    ]
+  },
+  {
+    "id": "e98c6248-af47-4cba-941e-8296cd26770a",
+    "name": "Elegant Wooden Car",
+    "price": 142991,
+    "category": "Wearables",
+    "stock": 38,
+    "description": "Roberts - Lind's most advanced Shirt technology increases cloudy capabilities",
+    "imageUrl": "https://loremflickr.com/699/2102/technology?lock=4524696769415386",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "f985b53d-78fe-455e-8880-19904946e1bb",
+    "name": "Rustic Marble Pizza",
+    "price": 114108,
+    "category": "Audio",
+    "stock": 79,
+    "description": "Our bat-friendly Pizza ensures rusty comfort for your pets",
+    "imageUrl": "https://loremflickr.com/780/1983/technology?lock=8299897389284321",
+    "compatibility_tags": [
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "20cd714c-c69f-46d4-bdd4-c80e303e2f44",
+    "name": "Tasty Marble Salad",
+    "price": 119970,
+    "category": "Accessories",
+    "stock": 42,
+    "description": "The olive Gloves combines British Indian Ocean Territory (Chagos Archipelago) aesthetics with Yttrium-based durability",
+    "imageUrl": "https://loremflickr.com/3568/322/technology?lock=1724995032884066",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "0e01c2ac-9e87-4a76-be61-8b08bece74cd",
+    "name": "Electronic Aluminum Mouse",
+    "price": 146419,
+    "category": "Electronics",
+    "stock": 88,
+    "description": "The Verdie Bike is the latest in a series of great products from Sauer, Rogahn and Jacobson",
+    "imageUrl": "https://loremflickr.com/2719/3357/technology?lock=2101163004057721",
+    "compatibility_tags": [
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "53c84f9c-b1f7-4eab-9ea5-1520c13bb69e",
+    "name": "Practical Silk Sausages",
+    "price": 137065,
+    "category": "Wearables",
+    "stock": 29,
+    "description": "The Multi-tiered intangible orchestration Ball offers reliable performance and warmhearted design",
+    "imageUrl": "https://loremflickr.com/3266/3184/technology?lock=6261459683120565",
+    "compatibility_tags": [
+      "USB-C",
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "508dcce0-8175-4374-b70d-3200b8e9ab47",
+    "name": "Unbranded Wooden Chicken",
+    "price": 107674,
+    "category": "Audio",
+    "stock": 13,
+    "description": "The sleek and guilty Car comes with yellow LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/616/3089/technology?lock=8692916025588342",
+    "compatibility_tags": [
+      "Smart Home",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "a4b73044-265e-4286-9591-e570096f5a0c",
+    "name": "Licensed Cotton Fish",
+    "price": 119982,
+    "category": "Accessories",
+    "stock": 87,
+    "description": "Our gecko-friendly Hat ensures apprehensive comfort for your pets",
+    "imageUrl": "https://loremflickr.com/634/881/technology?lock=1420484554106637",
+    "compatibility_tags": [
+      "Office",
+      "Smart Home",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "71bce1e8-4fd2-4aa8-9ac3-1a83d5178c74",
+    "name": "Generic Rubber Towels",
+    "price": 114902,
+    "category": "Wearables",
+    "stock": 80,
+    "description": "Stylish Tuna designed to make you stand out with boring looks",
+    "imageUrl": "https://loremflickr.com/991/1705/technology?lock=4128548490273205",
+    "compatibility_tags": [
+      "USB-C",
+      "Bluetooth",
+      "Portable"
+    ]
+  },
+  {
+    "id": "7f3de9df-2fba-456e-8415-47a80ccabb04",
+    "name": "Frozen Gold Sausages",
+    "price": 47327,
+    "category": "Electronics",
+    "stock": 58,
+    "description": "Professional-grade Sausages perfect for worthy training and recreational use",
+    "imageUrl": "https://loremflickr.com/694/2292/technology?lock=4659716671441568",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "3d263655-01f4-45a7-9de6-569d7b20eb77",
+    "name": "Awesome Bamboo Tuna",
+    "price": 91957,
+    "category": "Electronics",
+    "stock": 69,
+    "description": "Our bear-friendly Towels ensures educated comfort for your pets",
+    "imageUrl": "https://loremflickr.com/1727/169/technology?lock=7366433099583502",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "1ef122fc-520c-4515-966c-d74369ea5656",
+    "name": "Generic Gold Hat",
+    "price": 143734,
+    "category": "Electronics",
+    "stock": 45,
+    "description": "Featuring Thulium-enhanced technology, our Salad offers unparalleled svelte performance",
+    "imageUrl": "https://loremflickr.com/519/3838/technology?lock=424161274833550",
+    "compatibility_tags": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "a7196e43-5ca7-47ad-b47d-b2120ece6546",
+    "name": "Luxurious Aluminum Tuna",
+    "price": 115289,
+    "category": "Accessories",
+    "stock": 84,
+    "description": "Discover the plump new Fish with an exciting mix of Marble ingredients",
+    "imageUrl": "https://loremflickr.com/2767/1907/technology?lock=4561300051386956",
+    "compatibility_tags": [
+      "Smart Home",
+      "Office",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "2e6443f8-41e5-4cac-889f-0d0ae7d1575d",
+    "name": "Intelligent Silk Table",
+    "price": 29913,
+    "category": "Wearables",
+    "stock": 89,
+    "description": "Stylish Keyboard designed to make you stand out with witty looks",
+    "imageUrl": "https://loremflickr.com/2043/2570/technology?lock=6370406235681334",
+    "compatibility_tags": [
+      "Office",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "eb200cde-1e08-41fb-bfc3-6de0d67d3e67",
+    "name": "Gorgeous Granite Keyboard",
+    "price": 101296,
+    "category": "Wearables",
+    "stock": 77,
+    "description": "Our rich-inspired Pizza brings a taste of luxury to your great lifestyle",
+    "imageUrl": "https://loremflickr.com/3467/3891/technology?lock=6691494812396458",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "d735b02a-515a-4e51-b9ee-0d9778913afc",
+    "name": "Bespoke Marble Soap",
+    "price": 42803,
+    "category": "Wearables",
+    "stock": 24,
+    "description": "The Ora Bike is the latest in a series of staid products from Armstrong - Von",
+    "imageUrl": "https://loremflickr.com/1146/2605/technology?lock=4274559051129321",
+    "compatibility_tags": [
+      "Wireless",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "a9bc02de-c766-498a-b145-aa5092be4d89",
+    "name": "Licensed Plastic Car",
+    "price": 77314,
+    "category": "Accessories",
+    "stock": 55,
+    "description": "New Car model with 95 GB RAM, 936 GB storage, and obedient features",
+    "imageUrl": "https://loremflickr.com/155/448/technology?lock=3627753726158473",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Smart Home",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "2b71e5a5-e5e3-414a-a2a7-f4a8701b6cc8",
+    "name": "Generic Cotton Pizza",
+    "price": 105397,
+    "category": "Wearables",
+    "stock": 35,
+    "description": "Our shark-friendly Tuna ensures blushing comfort for your pets",
+    "imageUrl": "https://loremflickr.com/937/857/technology?lock=7439110370731337",
+    "compatibility_tags": [
+      "USB-C",
       "Portable",
       "Gaming"
     ]
   },
   {
-    "id": "9eb0166d-84f8-4516-830e-f1b0271130e9",
-    "name": "Refined Silk Table",
-    "price": 21825,
+    "id": "46e6449c-cdc0-4acd-b53c-17ac9112f2fb",
+    "name": "Rustic Metal Bacon",
+    "price": 148280,
+    "category": "Accessories",
+    "stock": 2,
+    "description": "The Focused full-range definition Pizza offers reliable performance and aching design",
+    "imageUrl": "https://loremflickr.com/3257/771/technology?lock=1531204604531442",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "10128f8a-24b8-4586-9a1d-9f42d0eaa928",
+    "name": "Oriental Gold Soap",
+    "price": 45462,
     "category": "Audio",
-    "stock": 87,
-    "description": "Introducing the French Polynesia-inspired Hat, blending flawless style with local craftsmanship",
+    "stock": 91,
+    "description": "Innovative Soap featuring miserable technology and Bamboo construction",
+    "imageUrl": "https://loremflickr.com/772/116/technology?lock=6756198692831292",
+    "compatibility_tags": [
+      "Smart Home",
+      "Bluetooth",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "8e24622a-a639-41cb-8453-fe1a0222da7c",
+    "name": "Modern Gold Fish",
+    "price": 91697,
+    "category": "Accessories",
+    "stock": 98,
+    "description": "The sleek and rotating Table comes with purple LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/1794/1478/technology?lock=8956382390581095",
     "compatibility_tags": [
       "Office",
+      "Bluetooth",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "4137cb9f-7ff9-4572-8efc-88fbd06de61f",
+    "name": "Refined Silk Ball",
+    "price": 134252,
+    "category": "Accessories",
+    "stock": 74,
+    "description": "Discover the idolized new Pizza with an exciting mix of Ceramic ingredients",
+    "imageUrl": "https://loremflickr.com/2004/1110/technology?lock=3742500016157622",
+    "compatibility_tags": [
+      "USB-C",
+      "Wireless",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "ef0a325b-96f2-4771-b631-e702ffab55b4",
+    "name": "Tasty Bamboo Keyboard",
+    "price": 147028,
+    "category": "Wearables",
+    "stock": 9,
+    "description": "Introducing the Brunei Darussalam-inspired Gloves, blending tender style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/2253/961/technology?lock=1255158161108438",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "0fc23f1d-fe76-4dd2-b943-2c2382d6b922",
+    "name": "Recycled Metal Pizza",
+    "price": 17273,
+    "category": "Audio",
+    "stock": 18,
+    "description": "New blue Mouse with ergonomic design for muted comfort",
+    "imageUrl": "https://loremflickr.com/2435/1090/technology?lock=5431112626154987",
+    "compatibility_tags": [
+      "Office",
+      "Portable",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "c64e9569-35fd-4eca-b650-5d5425be412f",
+    "name": "Handcrafted Cotton Chips",
+    "price": 59078,
+    "category": "Computers",
+    "stock": 86,
+    "description": "New Ball model with 4 GB RAM, 973 GB storage, and cooperative features",
+    "imageUrl": "https://loremflickr.com/728/3500/technology?lock=4984723518045241",
+    "compatibility_tags": [
+      "Smart Home",
+      "Wireless",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "781f1e09-c6a7-422b-831c-3bbcb5fa2c44",
+    "name": "Sleek Wooden Chips",
+    "price": 21367,
+    "category": "Audio",
+    "stock": 67,
+    "description": "Innovative Table featuring ugly technology and Gold construction",
+    "imageUrl": "https://loremflickr.com/3845/2320/technology?lock=7366881688498668",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "c10e9cab-1ba4-42da-8ef4-7a73c205734e",
+    "name": "Tasty Ceramic Towels",
+    "price": 25027,
+    "category": "Computers",
+    "stock": 43,
+    "description": "Experience the orange brilliance of our Salad, perfect for wilted environments",
+    "imageUrl": "https://loremflickr.com/2887/3007/technology?lock=709936566417968",
+    "compatibility_tags": [
+      "USB-C",
+      "Bluetooth",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "6b14ee48-33e5-4c28-bdb9-f002762c18a4",
+    "name": "Frozen Bronze Chair",
+    "price": 113048,
+    "category": "Computers",
+    "stock": 22,
+    "description": "The Realigned responsive definition Ball offers reliable performance and motionless design",
+    "imageUrl": "https://loremflickr.com/2012/634/technology?lock=5090689614773015",
+    "compatibility_tags": [
+      "Smart Home",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "61f79409-b2fe-4c97-a3aa-57eb0c3a41f2",
+    "name": "Sleek Metal Keyboard",
+    "price": 146370,
+    "category": "Audio",
+    "stock": 96,
+    "description": "Savor the rich essence in our Computer, designed for long-term culinary adventures",
+    "imageUrl": "https://loremflickr.com/1284/1505/technology?lock=6695809842838122",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "1be02a6d-f885-4cad-a0fa-5dc2ce32b2ed",
+    "name": "Refined Cotton Tuna",
+    "price": 26348,
+    "category": "Wearables",
+    "stock": 73,
+    "description": "Our bee-friendly Chicken ensures likely comfort for your pets",
+    "imageUrl": "https://loremflickr.com/3516/1779/technology?lock=629807828514078",
+    "compatibility_tags": [
+      "Office",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "112733d8-f6e2-405e-9739-745a0d4f2959",
+    "name": "Luxurious Cotton Table",
+    "price": 129000,
+    "category": "Computers",
+    "stock": 83,
+    "description": "Our rabbit-friendly Chicken ensures fantastic comfort for your pets",
+    "imageUrl": "https://loremflickr.com/3536/3318/technology?lock=8634753025009266",
+    "compatibility_tags": [
+      "Bluetooth",
       "Portable"
     ]
   },
   {
-    "id": "8b4704a9-aff8-42f7-bd42-a1a77c06ddc2",
-    "name": "Small Silk Chair",
-    "price": 25191,
-    "category": "Electronics",
-    "stock": 91,
-    "description": "Featuring Hassium-enhanced technology, our Salad offers unparalleled svelte performance",
+    "id": "2c103f8c-838b-489b-9613-ff2648bb10ff",
+    "name": "Gorgeous Concrete Computer",
+    "price": 28762,
+    "category": "Accessories",
+    "stock": 40,
+    "description": "Our ostrich-friendly Pizza ensures salty comfort for your pets",
+    "imageUrl": "https://loremflickr.com/1502/2318/technology?lock=8802887970342641",
     "compatibility_tags": [
       "Gaming",
       "Office"
     ]
   },
   {
-    "id": "3815eb44-6b4a-4716-a43a-ae4d05aa3302",
-    "name": "Frozen Granite Car",
-    "price": 112697,
+    "id": "2b2fc6aa-7fac-4d6e-b839-4280a6514b69",
+    "name": "Gorgeous Marble Table",
+    "price": 89023,
+    "category": "Electronics",
+    "stock": 60,
+    "description": "Featuring Cerium-enhanced technology, our Hat offers unparalleled rusty performance",
+    "imageUrl": "https://loremflickr.com/2715/3225/technology?lock=2157065557778996",
+    "compatibility_tags": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "67e88e71-bc85-4ec5-bd9a-b362c60f3c90",
+    "name": "Electronic Plastic Computer",
+    "price": 71250,
+    "category": "Computers",
+    "stock": 20,
+    "description": "Our creamy-inspired Bike brings a taste of luxury to your giving lifestyle",
+    "imageUrl": "https://loremflickr.com/769/1882/technology?lock=8244236520262430",
+    "compatibility_tags": [
+      "USB-C",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "3175c3fc-216d-4626-a1ef-99139c0f5528",
+    "name": "Practical Gold Mouse",
+    "price": 109948,
+    "category": "Audio",
+    "stock": 1,
+    "description": "Stylish Tuna designed to make you stand out with dependable looks",
+    "imageUrl": "https://loremflickr.com/1019/2316/technology?lock=786707365062497",
+    "compatibility_tags": [
+      "Smart Home",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "6eec4ed8-9248-4247-8cbe-e85ed7e5e22c",
+    "name": "Elegant Rubber Bacon",
+    "price": 57705,
+    "category": "Computers",
+    "stock": 42,
+    "description": "Electronic Hat designed with Ceramic for friendly performance",
+    "imageUrl": "https://loremflickr.com/2277/1728/technology?lock=4571176562401415",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "e9244937-9f8c-4399-ab85-aab795e234d9",
+    "name": "Modern Gold Soap",
+    "price": 14691,
+    "category": "Electronics",
+    "stock": 47,
+    "description": "Discover the eagle-like agility of our Computer, perfect for rough users",
+    "imageUrl": "https://loremflickr.com/268/1127/technology?lock=760184933278490",
+    "compatibility_tags": [
+      "Gaming",
+      "Portable",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "dd712d1d-c795-4412-bd18-a01bc3e134dd",
+    "name": "Elegant Steel Ball",
+    "price": 35010,
     "category": "Accessories",
+    "stock": 80,
+    "description": "The salmon Gloves combines Indonesia aesthetics with Chromium-based durability",
+    "imageUrl": "https://loremflickr.com/309/3912/technology?lock=1341466976403146",
+    "compatibility_tags": [
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "15cb4d50-dd91-4449-aa41-e61146f8463c",
+    "name": "Awesome Marble Tuna",
+    "price": 10171,
+    "category": "Computers",
+    "stock": 66,
+    "description": "Ergonomic Ball made with Cotton for all-day dental support",
+    "imageUrl": "https://loremflickr.com/3319/860/technology?lock=4419433811030060",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "0231219f-1070-40c4-8bb3-d430b892db4b",
+    "name": "Fantastic Plastic Shirt",
+    "price": 65851,
+    "category": "Electronics",
+    "stock": 30,
+    "description": "The lavender Sausages combines Indonesia aesthetics with Arsenic-based durability",
+    "imageUrl": "https://loremflickr.com/1415/3459/technology?lock=917659102883761",
+    "compatibility_tags": [
+      "Smart Home",
+      "Wireless",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "f5536165-62f9-49fb-80d7-3cdde2e5fa53",
+    "name": "Handcrafted Silk Table",
+    "price": 148601,
+    "category": "Wearables",
+    "stock": 88,
+    "description": "Our fish-friendly Computer ensures polite comfort for your pets",
+    "imageUrl": "https://loremflickr.com/2143/3154/technology?lock=1986127074910925",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Wireless",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "374d62f1-0b26-4e2b-8003-6e55d9df2ce0",
+    "name": "Handmade Concrete Car",
+    "price": 51848,
+    "category": "Accessories",
+    "stock": 86,
+    "description": "Our zesty-inspired Sausages brings a taste of luxury to your unique lifestyle",
+    "imageUrl": "https://loremflickr.com/1640/567/technology?lock=1743066357170212",
+    "compatibility_tags": [
+      "Smart Home",
+      "Office",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "0b265532-8aed-4164-ab7e-e554e3dc7721",
+    "name": "Soft Concrete Towels",
+    "price": 1900,
+    "category": "Audio",
+    "stock": 21,
+    "description": "Professional-grade Salad perfect for worldly training and recreational use",
+    "imageUrl": "https://loremflickr.com/1107/3098/technology?lock=1108826637452935",
+    "compatibility_tags": [
+      "Portable",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "ae5efe2a-5996-44f6-9601-37d1492a335f",
+    "name": "Licensed Cotton Bike",
+    "price": 139556,
+    "category": "Wearables",
+    "stock": 8,
+    "description": "Experience the black brilliance of our Sausages, perfect for mushy environments",
+    "imageUrl": "https://loremflickr.com/1201/1190/technology?lock=3915310924205332",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "7e8cb1dc-d6f7-4e20-99f9-7f02ce45e6e1",
+    "name": "Oriental Plastic Chips",
+    "price": 30415,
+    "category": "Audio",
+    "stock": 27,
+    "description": "New Shoes model with 94 GB RAM, 536 GB storage, and silver features",
+    "imageUrl": "https://loremflickr.com/1559/834/technology?lock=5071107030783756",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Gaming",
+      "Office"
+    ]
+  },
+  {
+    "id": "62c39a44-bbdb-4e3f-9ad4-125684b99096",
+    "name": "Tasty Bronze Tuna",
+    "price": 55369,
+    "category": "Accessories",
+    "stock": 57,
+    "description": "The sleek and brown Pants comes with green LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/1697/1176/technology?lock=1078044427891398",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "2851367a-5b5e-4dc0-a0b4-0a467a8961ee",
+    "name": "Electronic Granite Cheese",
+    "price": 109132,
+    "category": "Electronics",
+    "stock": 60,
+    "description": "The Lula Mouse is the latest in a series of mindless products from Daniel Inc",
+    "imageUrl": "https://loremflickr.com/1738/2578/technology?lock=8530626872939498",
+    "compatibility_tags": [
+      "Gaming",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "168ac190-41a7-4392-b4fd-f0efc48f020c",
+    "name": "Rustic Bamboo Soap",
+    "price": 87353,
+    "category": "Wearables",
+    "stock": 17,
+    "description": "Licensed Shirt designed with Marble for stiff performance",
+    "imageUrl": "https://loremflickr.com/3611/2961/technology?lock=8044339015459207",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "fcd36bfd-7c6e-4e40-add6-b8daac2a94b1",
+    "name": "Frozen Rubber Towels",
+    "price": 89172,
+    "category": "Accessories",
+    "stock": 50,
+    "description": "New orchid Pizza with ergonomic design for delirious comfort",
+    "imageUrl": "https://loremflickr.com/1927/2536/technology?lock=4696010659429673",
+    "compatibility_tags": [
+      "Wireless"
+    ]
+  },
+  {
+    "id": "67c45092-c65d-4af1-bf96-be0e6bbee60a",
+    "name": "Modern Granite Shirt",
+    "price": 93041,
+    "category": "Wearables",
+    "stock": 46,
+    "description": "New Keyboard model with 19 GB RAM, 124 GB storage, and phony features",
+    "imageUrl": "https://loremflickr.com/102/2932/technology?lock=5267621067543208",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Smart Home",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "fffdc334-794f-4c2e-8e79-0871fcbd8868",
+    "name": "Licensed Plastic Pizza",
+    "price": 68621,
+    "category": "Accessories",
+    "stock": 43,
+    "description": "Introducing the Holy See (Vatican City State)-inspired Chips, blending standard style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/1094/461/technology?lock=3326256442648272",
+    "compatibility_tags": [
+      "Portable",
+      "Bluetooth",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "64140236-ed25-4ebe-89b9-d0159104c8a5",
+    "name": "Recycled Concrete Fish",
+    "price": 13712,
+    "category": "Wearables",
+    "stock": 69,
+    "description": "Stylish Chair designed to make you stand out with bogus looks",
+    "imageUrl": "https://loremflickr.com/756/2981/technology?lock=3367034507773292",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Portable",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "0789514b-8428-4b07-8dcd-84169ccb4472",
+    "name": "Incredible Silk Sausages",
+    "price": 95665,
+    "category": "Electronics",
+    "stock": 37,
+    "description": "Rath - Hudson's most advanced Tuna technology increases unsightly capabilities",
+    "imageUrl": "https://loremflickr.com/663/2145/technology?lock=1801904674950608",
+    "compatibility_tags": [
+      "Gaming",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "cba4af2c-f251-4a52-9b35-7e1bb58bca00",
+    "name": "Intelligent Concrete Bike",
+    "price": 64703,
+    "category": "Accessories",
+    "stock": 93,
+    "description": "Dare, Corwin and Christiansen's most advanced Chips technology increases handy capabilities",
+    "imageUrl": "https://loremflickr.com/436/1278/technology?lock=5848590198120716",
+    "compatibility_tags": [
+      "Gaming",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "f76ea10f-10a1-4b64-827d-8b7fe412961b",
+    "name": "Electronic Marble Shirt",
+    "price": 7768,
+    "category": "Accessories",
+    "stock": 1,
+    "description": "Stylish Salad designed to make you stand out with shady looks",
+    "imageUrl": "https://loremflickr.com/995/2086/technology?lock=4536322401666349",
+    "compatibility_tags": [
+      "Smart Home",
+      "Office",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "399a6001-0c4d-40f4-bff1-807cba4c7c29",
+    "name": "Tasty Marble Chips",
+    "price": 34018,
+    "category": "Wearables",
+    "stock": 26,
+    "description": "Ergonomic Shoes made with Marble for all-day delirious support",
+    "imageUrl": "https://loremflickr.com/5/1652/technology?lock=4839907421686159",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "5f6a1c33-61eb-4867-ad1d-74fb9c5fbea3",
+    "name": "Bespoke Marble Chair",
+    "price": 78220,
+    "category": "Computers",
+    "stock": 28,
+    "description": "The Ariel Shirt is the latest in a series of cooperative products from Hand LLC",
+    "imageUrl": "https://loremflickr.com/1181/1523/technology?lock=7755688940270205",
+    "compatibility_tags": [
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "f573ab24-cba3-449f-a805-ec37d08cdef8",
+    "name": "Refined Silk Computer",
+    "price": 136610,
+    "category": "Electronics",
+    "stock": 46,
+    "description": "New Pants model with 39 GB RAM, 771 GB storage, and neglected features",
+    "imageUrl": "https://loremflickr.com/2969/948/technology?lock=1888665227494898",
+    "compatibility_tags": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "2902101f-04a9-41ad-9c87-ff223e9ecc3a",
+    "name": "Fantastic Bronze Tuna",
+    "price": 100601,
+    "category": "Electronics",
+    "stock": 73,
+    "description": "Innovative Gloves featuring profuse technology and Aluminum construction",
+    "imageUrl": "https://loremflickr.com/438/3614/technology?lock=5363616124659673",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "528de1c5-acad-4a06-a9ba-1e9d908423f4",
+    "name": "Handmade Bamboo Shirt",
+    "price": 143126,
+    "category": "Electronics",
+    "stock": 64,
+    "description": "Experience the indigo brilliance of our Soap, perfect for trusting environments",
+    "imageUrl": "https://loremflickr.com/786/913/technology?lock=7412997532897239",
+    "compatibility_tags": [
+      "USB-C",
+      "Gaming",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "f67a619e-7f9a-4d35-8fcb-7fadb4ee4a86",
+    "name": "Handmade Plastic Bacon",
+    "price": 31393,
+    "category": "Audio",
+    "stock": 32,
+    "description": "Unbranded Computer designed with Metal for unwelcome performance",
+    "imageUrl": "https://loremflickr.com/388/489/technology?lock=6228520760614642",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "f40a7cf5-813d-4555-b51e-45a8d8b16545",
+    "name": "Luxurious Granite Soap",
+    "price": 41585,
+    "category": "Electronics",
+    "stock": 64,
+    "description": "The sleek and impeccable Chicken comes with black LED lighting for smart functionality",
+    "imageUrl": "https://loremflickr.com/3570/2320/technology?lock=4972790183201675",
+    "compatibility_tags": [
+      "USB-C",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "bbe8641f-328f-4fb6-b7f7-22edcd10e17e",
+    "name": "Intelligent Marble Tuna",
+    "price": 109379,
+    "category": "Wearables",
+    "stock": 17,
+    "description": "Savor the sour essence in our Towels, designed for superior culinary adventures",
+    "imageUrl": "https://loremflickr.com/1313/3298/technology?lock=256773796358537",
+    "compatibility_tags": [
+      "Wireless",
+      "Smart Home",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "df27bba9-f088-4e49-9f48-144ed02e3287",
+    "name": "Incredible Bamboo Keyboard",
+    "price": 80573,
+    "category": "Audio",
     "stock": 85,
-    "description": "Introducing the Saint Helena-inspired Tuna, blending responsible style with local craftsmanship",
+    "description": "The Streamlined motivating neural-net Cheese offers reliable performance and dim design",
+    "imageUrl": "https://loremflickr.com/411/1459/technology?lock=1844014443552336",
+    "compatibility_tags": [
+      "Office",
+      "Gaming",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "4fe075a5-d7f3-42c0-bdd6-16a32fc613b7",
+    "name": "Oriental Steel Bacon",
+    "price": 24776,
+    "category": "Accessories",
+    "stock": 27,
+    "description": "New Salad model with 87 GB RAM, 817 GB storage, and misguided features",
+    "imageUrl": "https://loremflickr.com/3302/1943/technology?lock=2362692537117096",
+    "compatibility_tags": [
+      "Portable"
+    ]
+  },
+  {
+    "id": "fb511c0e-2125-46a6-84d7-750ec7437976",
+    "name": "Oriental Wooden Chips",
+    "price": 142114,
+    "category": "Computers",
+    "stock": 89,
+    "description": "Innovative Towels featuring busy technology and Silk construction",
+    "imageUrl": "https://loremflickr.com/3405/1467/technology?lock=3171453062566836",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "1dd2e717-c7da-4d87-958c-74b710411023",
+    "name": "Bespoke Silk Sausages",
+    "price": 96912,
+    "category": "Accessories",
+    "stock": 14,
+    "description": "Professional-grade Tuna perfect for foolish training and recreational use",
+    "imageUrl": "https://loremflickr.com/2939/459/technology?lock=5656862134729469",
+    "compatibility_tags": [
+      "Office"
+    ]
+  },
+  {
+    "id": "979c5b70-de56-448d-b541-d775bbcf4497",
+    "name": "Oriental Bamboo Hat",
+    "price": 137147,
+    "category": "Wearables",
+    "stock": 10,
+    "description": "Discover the lion-like agility of our Hat, perfect for critical users",
+    "imageUrl": "https://loremflickr.com/3177/1199/technology?lock=5844679130708542",
+    "compatibility_tags": [
+      "Portable",
+      "Wireless",
+      "USB-C"
+    ]
+  },
+  {
+    "id": "e7fa318b-9b20-4953-af10-fd93e2a373a7",
+    "name": "Refined Bamboo Car",
+    "price": 4768,
+    "category": "Computers",
+    "stock": 50,
+    "description": "Stylish Shoes designed to make you stand out with frail looks",
+    "imageUrl": "https://loremflickr.com/3276/1079/technology?lock=583112550857630",
+    "compatibility_tags": [
+      "Smart Home",
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "7b3ced96-7259-41c3-9c47-6a19f357ce39",
+    "name": "Tasty Marble Ball",
+    "price": 128514,
+    "category": "Wearables",
+    "stock": 70,
+    "description": "Professional-grade Chips perfect for posh training and recreational use",
+    "imageUrl": "https://loremflickr.com/1725/1299/technology?lock=8261805998988369",
+    "compatibility_tags": [
+      "USB-C",
+      "Office"
+    ]
+  },
+  {
+    "id": "29202742-7c7b-4282-b5ee-3428f725e9de",
+    "name": "Ergonomic Aluminum Mouse",
+    "price": 105845,
+    "category": "Accessories",
+    "stock": 54,
+    "description": "Our hamster-friendly Cheese ensures regal comfort for your pets",
+    "imageUrl": "https://loremflickr.com/3257/1896/technology?lock=7303140784448271",
+    "compatibility_tags": [
+      "USB-C",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "86e92458-6c7e-47c7-8d23-3b8eef7ee51a",
+    "name": "Frozen Silk Soap",
+    "price": 18254,
+    "category": "Audio",
+    "stock": 43,
+    "description": "Savor the tangy essence in our Gloves, designed for sure-footed culinary adventures",
+    "imageUrl": "https://loremflickr.com/2721/3070/technology?lock=4281552866070921",
+    "compatibility_tags": [
+      "Wireless",
+      "Smart Home",
+      "Portable"
+    ]
+  },
+  {
+    "id": "3d7db25f-7ac3-4f7e-8273-a26824a430ca",
+    "name": "Small Cotton Bike",
+    "price": 46488,
+    "category": "Electronics",
+    "stock": 66,
+    "description": "The Darron Bike is the latest in a series of livid products from Frami, Jerde and Lindgren",
+    "imageUrl": "https://loremflickr.com/2063/1805/technology?lock=7627400125469004",
+    "compatibility_tags": [
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "872ed659-df7f-4ea7-bfc4-240971450fdb",
+    "name": "Frozen Rubber Car",
+    "price": 124870,
+    "category": "Computers",
+    "stock": 67,
+    "description": "The Ergonomic asymmetric algorithm Ball offers reliable performance and honorable design",
+    "imageUrl": "https://loremflickr.com/2947/1881/technology?lock=6517909114956236",
+    "compatibility_tags": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "072bb00d-3ca0-474c-8845-58afb2640046",
+    "name": "Soft Metal Ball",
+    "price": 102454,
+    "category": "Accessories",
+    "stock": 83,
+    "description": "The Fundamental empowering internet solution Bike offers reliable performance and poor design",
+    "imageUrl": "https://loremflickr.com/3510/848/technology?lock=1710923857451402",
+    "compatibility_tags": [
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "0f3b32a0-d152-4d52-a9c4-41566b9e18cf",
+    "name": "Soft Plastic Hat",
+    "price": 51087,
+    "category": "Audio",
+    "stock": 70,
+    "description": "Featuring Barium-enhanced technology, our Cheese offers unparalleled bony performance",
+    "imageUrl": "https://loremflickr.com/2543/3267/technology?lock=1122099139296782",
+    "compatibility_tags": [
+      "USB-C"
+    ]
+  },
+  {
+    "id": "20ce2fb0-c84f-4b71-9ec8-2bc5be77ca65",
+    "name": "Soft Rubber Shoes",
+    "price": 147005,
+    "category": "Wearables",
+    "stock": 64,
+    "description": "Discover the bear-like agility of our Bike, perfect for present users",
+    "imageUrl": "https://loremflickr.com/286/2756/technology?lock=2645683204140018",
+    "compatibility_tags": [
+      "Gaming",
+      "Office",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "3acc405a-2317-4e98-b7e0-6d0800ce8373",
+    "name": "Refined Aluminum Chair",
+    "price": 148518,
+    "category": "Accessories",
+    "stock": 48,
+    "description": "The Katrina Tuna is the latest in a series of stained products from Lemke - Stanton",
+    "imageUrl": "https://loremflickr.com/2218/592/technology?lock=1342645679584120",
+    "compatibility_tags": [
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "194548c5-40b1-4482-b6c5-08a40c091feb",
+    "name": "Incredible Wooden Sausages",
+    "price": 34241,
+    "category": "Electronics",
+    "stock": 52,
+    "description": "New tan Gloves with ergonomic design for good-natured comfort",
+    "imageUrl": "https://loremflickr.com/2277/799/technology?lock=2875623465914448",
+    "compatibility_tags": [
+      "Bluetooth",
+      "Portable",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "6fe2e729-602f-4719-823c-89e92193c5c4",
+    "name": "Generic Concrete Hat",
+    "price": 121311,
+    "category": "Computers",
+    "stock": 19,
+    "description": "The turquoise Car combines Dominica aesthetics with Potassium-based durability",
+    "imageUrl": "https://loremflickr.com/291/1155/technology?lock=8034331049647524",
+    "compatibility_tags": [
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "215737bc-0133-41d3-b18a-911be2fdd472",
+    "name": "Handmade Gold Sausages",
+    "price": 87699,
+    "category": "Audio",
+    "stock": 12,
+    "description": "New indigo Fish with ergonomic design for multicolored comfort",
+    "imageUrl": "https://loremflickr.com/939/870/technology?lock=2237172970097756",
+    "compatibility_tags": [
+      "Smart Home",
+      "Office"
+    ]
+  },
+  {
+    "id": "ec81622e-ef58-47fc-aa12-ae0d8a9cf322",
+    "name": "Generic Granite Shirt",
+    "price": 79484,
+    "category": "Wearables",
+    "stock": 52,
+    "description": "Introducing the Saint Lucia-inspired Keyboard, blending strident style with local craftsmanship",
+    "imageUrl": "https://loremflickr.com/3414/1390/technology?lock=2088849777191171",
     "compatibility_tags": [
       "Wireless",
       "Smart Home",
@@ -1779,15 +1941,16 @@
     ]
   },
   {
-    "id": "718a173a-1307-49f4-acd3-d18a07dbaeb8",
-    "name": "Rustic Rubber Towels",
-    "price": 66482,
-    "category": "Accessories",
-    "stock": 66,
-    "description": "Langworth - Walker's most advanced Shirt technology increases creative capabilities",
+    "id": "63676dca-5b31-4f6f-a515-de8d402065bf",
+    "name": "Electronic Cotton Salad",
+    "price": 41135,
+    "category": "Electronics",
+    "stock": 47,
+    "description": "The Macy Shirt is the latest in a series of turbulent products from Lesch - Torp",
+    "imageUrl": "https://loremflickr.com/299/2601/technology?lock=6881210249062046",
     "compatibility_tags": [
-      "Gaming",
-      "USB-C"
+      "Portable",
+      "Office"
     ]
   }
 ]
