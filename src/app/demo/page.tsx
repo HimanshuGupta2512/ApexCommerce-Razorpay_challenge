@@ -177,15 +177,19 @@ export default function Home() {
         name: "ApexCommerce",
         description: "Test Transaction",
         order_id: orderData.id,
-        handler: function (response: Record<string, string>) {
-          alert(
-            `Payment Successful!\nPayment ID: ${response.razorpay_payment_id}\nOrder ID: ${response.razorpay_order_id}`
-          );
+        handler: (response: Record<string, string>) => {
+          setMessages((prev) => [
+            ...prev,
+            {
+              role: "model",
+              content: `✅ **Payment Successful!**\n\nYour order has been securely processed and confirmed via Razorpay Webhooks.\n\n* **Payment ID:** \`${response.razorpay_payment_id}\`\n* **Order ID:** \`${response.razorpay_order_id}\`\n\nThank you for demonstrating ApexCommerce!`,
+            },
+          ]);
         },
         prefill: {
           name: "John Doe",
           email: "johndoe@example.com",
-          contact: "9876543210",
+          contact: "8955295355",
         },
         theme: {
           color: "#3399cc",
