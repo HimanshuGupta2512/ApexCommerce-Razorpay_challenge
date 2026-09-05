@@ -1,0 +1,41 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Order {
+  id            String      @id @default(uuid())
+  razorpayId    String?     @unique
+  amount        Int         // Amount in paise
+  status        String      @default("pending") // pending, paid, failed
+  currency      String      @default("INR")
+  receipt       String?
+  items         OrderItem[]
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+}
+
+model OrderItem {
+  id        String   @id @default(uuid())
+  orderId   String
+  order     Order    @relation(fields: [orderId], references: [id])
+  productId String
+  name      String
+  price     Int      // Price at time of checkout
+  quantity  Int
+}
+
+model AuditLog {
+  id             String   @id @default(uuid())
+  timestamp      DateTime @default(now())
+  event          String   // e.g., 'checkout_stage', 'razorpay_order_created'
+  agentContext   String?  // JSON stringified RAG context
+  gatekeeperPass Boolean
+  gatekeeperLogs String?  // Logs about why it passed/failed
+  razorpayOrderId String?
+  details        String?  // Any other JSON details
+}
